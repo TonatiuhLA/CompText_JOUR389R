@@ -78,6 +78,13 @@ head(SF)
 **Really Interview the Data** How big are you? Rows? Columns? List of
 column names?
 
+157,237 rows
+14 Columns
+
+Column Names:
+Crime Id, Original Crime Type Name, Report Date, Call Date, Offense Date, Call Time Call Date Time, Disposition, Address, City, State, Agency Id, Address Type, Common Location
+
+
 ```{r}
 #examine all of the SF data using glimpse
 glimpse(SF)
@@ -204,6 +211,8 @@ ggplot(aes(x = year, y = n,
 **1) Which Day Had the Most 311 Calls?** Using count to tabulate calls
 by day
 
+The day with the most 311 calls is 2019-08-15, August 15th 2019
+
 ```{r}
 Most_311_Day <- SF |> 
   group_by(call_date2) |> 
@@ -245,9 +254,10 @@ summary(Days$n)
 ```
 
 Between March 31, 2016 and Nov. 30, 2019, San Francisco residents placed
-**an average 117 calls** to police complaining about homeless people.
+**an average 117 calls** to police complaining about homeless people. The minimum number of calls in one day was 10 calls, the max number of calls in one day was 232 calls, and the median number of calls was 119.
 
 **Most Calls**: Identify the day with the most calls
+Day with most calls is 2019-08-15
 
 ```{r}
 #Group_by gathers and allows tabulation of all days
@@ -341,6 +351,13 @@ head(Action)
 **Tabulate types of events**. What are the top five complaints in this
 data and provide the number of complaints
 
+Top 5 complaint types:
+1 - Homeless Complaint with 142780 entries
+2 - 915 with 9283 entries
+3 - 919 with 2879 entries
+4 - 915 Sleeper with 290 entries
+5 - 920 with 226 entries
+
 ```{r}
 Types <- SF %>% count(original_crime_type_name) %>% 
   slice_max(n, n=5)
@@ -352,6 +369,11 @@ Types
 # Part 4: Visualization
 
 **Question**: What were the common days for arrests?
+
+The most common days for arrests are:
+Tuesday with n = 79
+Wednesday with n = 77
+Thursday with n = 74
 
 **Task: Tabulate arrests by day of the week**
 
