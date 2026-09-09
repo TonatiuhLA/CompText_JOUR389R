@@ -6,31 +6,33 @@ editor_options:
 ---
 
 ::: {style="text-align: center; color: #337DFF;"}
-# First Steps in R and R Studio
+# KEY TO First Steps in R and R Studio
 
 ```         
-Benji Leung-Arellano
-tleungar@terpmail.umd.edu
-LinkedIn: https://www.linkedin.com/in/tonatiuhleungarellano/ 
-ver. 9/2/2026
+Rob Wells, Ph.D.
+Philip Merrill College of Journalism
+University of Maryland
+robwells@umd.edu
+LinkedIn: https://www.linkedin.com/in/rob-wells-7929329/ 
+ver. 9/9/2026 
 ```
 
 ### Goals
 
-- Understand basic operations of R Studio
-- Use rio::import to load data
-- Use the tidyverse package dplyr to sort and filter -- Identify trends
-  in your data.
+-   Understand basic operations of R Studio
+-   Use rio::import to load data
+-   Use the tidyverse package dplyr to sort and filter -- Identify
+    trends in your data.
 
 <br>
 
 ### Get Organized
 
-- Create a new folder on your hard drive: Code
-- Create a subfolder: comp_text_class
-- Download intro_to_r.zip and move to comp_text_class
-- Unzip file, open code.Rproj
-- Open Part_1_Intro-to_R.rmd.
+-   Create a new folder on your hard drive: Code
+-   Create a subfolder: comp_text_class
+-   Download intro_to_r.zip and move to comp_text_class
+-   Unzip file, open code.Rproj
+-   Open Part_1_Intro-to_R.rmd.
 
 <br> <br>
 
@@ -50,7 +52,7 @@ There are four main windows:
 **Chunks: The gray boxes have live R code. Click the green arrow at the
 right on line 55 and run the help.start() command**
 
-``` {r}
+``` {message="FALSE," warning="FALSE"}
 help.start()
 ```
 
@@ -80,7 +82,7 @@ in active memory by loading a library
 Libraries are bits of software you will have to load each time into R to
 make things run.
 
-```{r}
+```{r message=FALSE, warning=FALSE}
 library(tidyverse)
 library(rio)
 library(janitor)
@@ -128,7 +130,7 @@ R grabbed the spreadsheet from a Google Sheet\
 We told R to grab the first sheet, RealMediaSalaries2\
 R created a dataframe called MediaBucks\
 
-```         
+```
 basics of R: \<- is known as an “assignment operator.”\
 It means: “Make the object named to the left equal to the output of the
 code to the right.”
@@ -147,16 +149,19 @@ nrow(MediaBucks)
 How many columns? Names of columns
 
 ```{r}
+#use the command ncol to determine the number of columns
 ncol(MediaBucks)
 ```
 
 ```{r}
+#use the command glimpse to see the file types, names
 glimpse(MediaBucks)
 ```
 
 Names of your columns
 
 ```{r}
+# use the command names to see the file names
 names(MediaBucks)
 ```
 
@@ -191,7 +196,6 @@ average
 #mean is the command to determine averages.
 #replace sum for mean: sum(MediaBucks$Salary, na.rm=TRUE)
 mean(MediaBucks$Salary, na.rm=TRUE)
-
 ```
 
 <br>
@@ -241,6 +245,7 @@ MediaBucks %>%
 
 Better idea: Check Averages!
 
+
 ```{r}
 #Using the example code above, create a column called Avg_Salary and use the mean command to produce the calculation
 #Adapt the code below to do this:
@@ -268,6 +273,24 @@ Questions:
 2: Number of rows  
 3: Number of rows cut with filter of greater that 500 
 ```
+```{r}
+#1: View the range of your salary data  
+summary(MediaBucks$Salary)
+```
+
+```{r}
+#2: Number of rows  
+nrow(MediaBucks)
+```
+
+
+
+```{r}
+#3: Number of rows cut with filter of 500 or greater 
+MediaSalary <- MediaBucks %>% 
+  filter(Salary >= 500)
+```
+
 
 <br>
 
@@ -303,48 +326,58 @@ Questions
 ```
 
 ```{r}
-#1: Build a table for NewYorkTimes employees   
-NYT <- subset(MediaBucks, COMPANY=="NewYorkTimes")
-NYT2 <- subset(MediaBucks, COMPANY=="NewYorkTimes" | COMPANY=="NYT")
-
+#1: Build a table for NewYorkTimes employees
+NYT <- subset(MediaBucks, COMPANY=="NewYorkTimes") 
+#OR, bonus
+#NYT2 <- subset(MediaBucks, COMPANY=="NewYorkTimes" | COMPANY=="NYT") 
 ```
 
 ```{r}
-#2: Determine median salary of NewYorkTimes employees   
+#2: Determine median salary of NewYorkTimes employees
 summary(NYT$Salary)
-summary(NYT2$Salary)
+#The median New York Times salary is $52,000
 
 ```
 
-```{r}
-#3: Identify title, gender and race of the highest paid position at NYT 
-# max(NYT$Salary) -> reveals that max salary is: 350000
-maxSalNYT <- NYT %>%
-  filter(Salary >= 350000)
 
-maxSalNYT$TITLE
-maxSalNYT$Gender
-maxSalNYT$Race
+```{r}
+#3: Identify title, gender and race of the highest paid position at NYT
+NYT %>% 
+  filter(Salary == 350000)
+#The highest paid worker at the New York Times is the Executive Editor, black person with no disclosed gender who makes $350,000
+
+#OR
+
+ # NYT %>% 
+ #  filter(Salary == max(Salary, na.rm = TRUE)) %>% 
+ #  select(TITLE, Gender, Race, Salary)
 
 ```
 
 ```{r}
 #4: Build a table that filters "Business" in the Company column. Determine Summary of the Salary column.
+
+
 #Build a second table that filters "Bloomberg" in the Company column.  Determine Summary of the Salary column.
 
 #Which one is higher?
 
-BusinessComp <- MediaBucks %>%
-  filter(COMPANY == "Business")
-BloombergComp <- MediaBucks %>%
-  filter(COMPANY == "Bloomberg")
+Biz <- subset(MediaBucks, grepl("?Business", COMPANY))
+summary(Biz$Salary)
 
-summary(BusinessComp$Salary)
-summary(BloombergComp$Salary)
+#$46,000
+Bloom <- subset(MediaBucks, grepl("?Bloomberg", COMPANY))
+summary(Bloom$Salary)
+#$50,350
 
+#RSW comment - I want people to get into the habit of writing out complete answers in code
 
-# Bloomberg is higher but that's because there is no company that fits
-# the name "Business" in the company column, so it just returns N/A
+# Bloomberg's median salary of $50,000 is higher than the median $46,000 for general business reporter positions
+
+#Bridget's solution.
+MediaBucks %>% select(COMPANY) %>%
+  filter(MediaBucks$Salary == max(max(Biz$Salary),max(Bloom$Salary)))
+
 ```
 
 <br> \#### More Tables
@@ -352,7 +385,7 @@ summary(BloombergComp$Salary)
 Build a table with several companies of your choice
 
 ```{r}
-BigBoys <- filter(MediaSalary, COMPANY %in% c("NewYorkTimes", "WallStreetJournal", "Bloomberg"))    
+BigBoys <- filter(MediaSalary, COMPANY %in% c("NewYorkTimes", "WallStreetJournal", "Bloomberg"))
 ```
 
 Table with just reporter salaries
@@ -369,6 +402,51 @@ Questions:
 2: Make a table for editors, figure out medians.   
 3: Find highest paid editor. Resent them.   
 4: Make a table for any position involving data  
+```
+
+```{r}
+#1: Who is making $230,504 as a reporter???   
+
+Reporters %>% 
+  filter(Salary ==230504)
+
+#A senior reporter	ProPublica	is making $230,504
+```
+
+```{r}
+#Make a table for editors, figure out medians.   
+
+Editors <- subset(MediaBucks, grepl("?editor", TITLE, ignore.case = TRUE))
+summary(Editors$Salary, na.rm= TRUE)
+
+
+#Median salary for editors: $64,000
+```
+
+```{r}
+#Find highest paid editor. Resent them.   
+summary(Editors$Salary)
+#top editor salary: $770,000
+
+Editors %>% 
+  filter(Salary ==770000)
+
+#The highest paid editor is a Senior Photo Editor at Tribune Publishing who makes $770,000
+
+
+#Why does this return a zero result?
+#HighPaidReporter <- subset(MediaBucks, TITLE == "reporter" & Salary == 230504)
+
+```
+
+```{r}
+#Make a table for any position involving data  
+
+data <- subset(MediaBucks, grepl("?data", JOB_DUTIES, ignore.case = TRUE))
+summary(data$Salary, na.rm= TRUE)
+
+#Median salary, $60,000
+
 ```
 
 Table with Black reporters at Wall Street Journal
@@ -423,8 +501,8 @@ How to conduct filter queries from a dataset
 
 #### Next Steps
 
-Try [Basic Data Visualization in
-R](https://wellsdata.github.io/DJNF_Merrill/Intro_to_R_2024/DJNF_Basic_Data_Viz.html)
+Try [Basic Data Visualization in R](https://wellsdata.github.io/DJNF_Merrill/Intro_to_R_2024/DJNF_Basic_Data_Viz.html)
+
 
 # Appendix
 
@@ -480,4 +558,3 @@ Andrew Ba Tran first Data Analysis Steps Using R
 
 Base R Cheat Sheet
 <https://www.povertyactionlab.org/sites/default/files/r-cheat-sheet.pdf>
-:::
