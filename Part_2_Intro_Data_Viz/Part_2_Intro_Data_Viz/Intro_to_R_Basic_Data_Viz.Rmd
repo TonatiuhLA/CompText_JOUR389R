@@ -78,6 +78,8 @@ head(SF)
 **Really Interview the Data** How big are you? Rows? Columns? List of
 column names?
 
+
+***Benji's Answer***
 157,237 rows
 14 Columns
 
@@ -211,6 +213,7 @@ ggplot(aes(x = year, y = n,
 **1) Which Day Had the Most 311 Calls?** Using count to tabulate calls
 by day
 
+***Benji's Answer***
 The day with the most 311 calls is 2019-08-15, August 15th 2019
 
 ```{r}
@@ -253,10 +256,14 @@ Days <- SF %>%
 summary(Days$n)
 ```
 
+***Benji's Answer (Added onto the text that was already present)***
+
 Between March 31, 2016 and Nov. 30, 2019, San Francisco residents placed
 **an average 117 calls** to police complaining about homeless people. The minimum number of calls in one day was 10 calls, the max number of calls in one day was 232 calls, and the median number of calls was 119.
 
 **Most Calls**: Identify the day with the most calls
+
+***Benji's Answer***
 Day with most calls is 2019-08-15
 
 ```{r}
@@ -301,6 +308,8 @@ write_csv(Days,"Days.csv")
 [slice_max to the
 rescue](https://dplyr.tidyverse.org/reference/slice.html)
 
+
+***Benji's Answer***
 Top 5 days with most calls are:
 1 - 2019-08-15 with 232 calls
 2 - 2018-04-19 with 221 calls
@@ -314,6 +323,7 @@ slice_max(Days, order_by = n, n = 5, na_rm=TRUE)
 
 **Question**: Identify the top 5 days with the fewest calls?
 
+***Benji's Answer***
 Top 5 days with least calls are:
 1 - 2016-03-31 with 10 calls
 2 - 2019-06-30 with 23 calls
@@ -351,6 +361,7 @@ head(Action)
 **Tabulate types of events**. What are the top five complaints in this
 data and provide the number of complaints
 
+***Benji's Answer***
 Top 5 complaint types:
 1 - Homeless Complaint with 142780 entries
 2 - 915 with 9283 entries
@@ -370,6 +381,7 @@ Types
 
 **Question**: What were the common days for arrests?
 
+***Benji's Answer***
 The most common days for arrests are:
 Tuesday with n = 79
 Wednesday with n = 77
