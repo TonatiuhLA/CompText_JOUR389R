@@ -174,12 +174,182 @@ data |>
              fill = reorder(publication_4,n))) +
   geom_bar(stat = "identity", width = 1) + 
   coord_polar(theta = "y") + 
+  theme_void() + 
+  theme(
+    legend.box.spacing = unit(0.6, "cm"),
+    plot.margin = margin(10, 20, 10, 10),
+    legend.key.size = unit(0.4, "cm"),  
+    legend.text = element_text(size = 8) 
+  ) +
+  labs(title = "Deaf-Technology-Sentiment By Source",
+       subtitle = "Limited NexisUni Run",
+       caption = "Graphic by Tonatiuh Leung-Arellano, 9-16-2026",
+       fill = "Publication")
+```
+#I prompted Claude Sonnet 5 with this prompt to do some aesthetic changes for the pie chart.  Before AI the code was:
+
+data |> 
+  count(publication_4) |> 
+   ggplot(aes(x = "", y = n,
+             fill = reorder(publication_4,n))) +
+  geom_bar(stat = "identity", width = 1) + 
+  coord_polar(theta = "y") + 
+  theme_void() + 
+  theme(
+    legend.box.spacing = unit(0.6, "cm"),  # space between plot and legend
+    plot.margin = margin(10, 20, 10, 10)   # top, right, bottom, left padding
+  ) +
+  labs(title = "Deaf-Technology-Sentiment By Source",
+       subtitle = "Limited NexisUni Run",
+       caption = "Graphic by Tonatiuh Leung-Arellano, 9-16-2026")
+       
+# After my first prompt it was: 
+
+data |> 
+  count(publication_4) |> 
+   ggplot(aes(x = "", y = n,
+             fill = reorder(publication_4,n))) +
+  geom_bar(stat = "identity", width = 1) + 
+  coord_polar(theta = "y") + 
+  theme_void() + 
+  theme(
+    legend.box.spacing = unit(0.6, "cm"),  # space between plot and legend
+    plot.margin = margin(10, 20, 10, 10)   # top, right, bottom, left padding
+  ) +
+  labs(title = "Deaf-Technology-Sentiment By Source",
+       subtitle = "Limited NexisUni Run",
+       caption = "Graphic by Tonatiuh Leung-Arellano, 9-16-2026")
+       
+# My prompt for the first go was: 
+
+data |> 
+  count(publication_4) |> 
+   ggplot(aes(x = "", y = n,
+             fill = reorder(publication_4,n))) +
+  geom_bar(stat = "identity", width = 1) + 
+  coord_polar(theta = "y") + 
   theme_minimal() + 
   labs(title = "Deaf-Technology-Sentiment By Source",
        subtitle = "Limited NexisUni Run",
        caption = "Graphic by Tonatiuh Leung-Arellano, 9-16-2026")
-```
 
+This code gives me a pie chart. But there are two formatting issues I'm running into. 1: Surrounding the pie chart is an "x" on the left side and an "n" on the bottom as if the chart were a bar graph and the "x" was for the y-axis and the "n" represented the x-axis. How do I remove these? 2: For the color legend on the right of the pie chart, the legend doesn't have any space between it and the edge of the image. How can this be resolved? Please explain what's added and how each part contributes.
+
+# Claude's response: 
+
+Both issues come from the fact that coord_polar() doesn't actually change your plot type — it just bends a regular bar chart into a circle. R still thinks it's drawing a bar chart with an x-axis (the blank "" you mapped) and a y-axis (n), so it keeps drawing axis titles, tick labels, and gridlines for them. theme_minimal() removes gridlines and background but doesn't strip those axis elements, so they remain, wrapped around your circle.
+
+Here's the fix:
+
+r
+data |> 
+  count(publication_4) |> 
+  ggplot(aes(x = "", y = n, fill = reorder(publication_4, n))) +
+  geom_bar(stat = "identity", width = 1) + 
+  coord_polar(theta = "y") + 
+  theme_void() +                        # replaces theme_minimal()
+  theme(
+    legend.box.spacing = unit(0.6, "cm"),  # space between plot and legend
+    plot.margin = margin(10, 20, 10, 10)   # top, right, bottom, left padding
+  ) +
+  labs(title = "Deaf-Technology-Sentiment By Source",
+       subtitle = "Limited NexisUni Run",
+       caption = "Graphic by Tonatiuh Leung-Arellano, 9-16-2026")
+
+What changed and why:
+
+theme_void() instead of theme_minimal() — This is the fix for issue 1. theme_void() strips away everything structural: axis titles, axis text, tick marks, gridlines, and the panel background. Since a pie chart has no meaningful axes to show, this is normally the right base theme for coord_polar() charts. It still keeps your labs() (title/subtitle/caption) and the legend, since those aren't axis elements.
+legend.box.spacing — This controls the gap between the plot panel (your pie circle) and the legend box. By default it's very small, which is why the legend looked glued to the chart. Setting it to something like unit(0.6, "cm") pushes the legend away from the circle itself.
+plot.margin — This controls the padding between the entire plot (circle + legend + titles) and the edge of the image/device. If your legend text is getting cut off or touching the image border, this is the one to increase, particularly the second value (right-hand margin), since the legend sits on the right.
+
+# However, this presents a new issue. The legend isn't fully on the page anymore. Thus my      next prompt was: 
+
+The x and n are now gone. But now the legend is no longer on the fully on the page, the bottom is cut off of the image. Please again explain a fix for this.
+
+# Claude's response:
+
+The cause here is different from before. plot.margin only adds padding inside a fixed-size image — it can't make the image itself bigger. If your legend has many category labels stacked vertically (likely, since publication_4 probably has several source names), the legend box grows taller than the image canvas you're rendering into, so the bottom items get clipped by the edge of the device itself.
+
+Here's the fix:
+
+r
+theme(
+  legend.box.spacing = unit(0.6, "cm"),
+  plot.margin = margin(10, 20, 10, 10),
+  legend.key.size = unit(0.4, "cm"),   # smaller color swatches
+  legend.text = element_text(size = 8) # smaller label text
+)
+
+This reduces how tall the legend column is, so it's more likely to fit within a fixed-size image without growing past the edge.
+
+# My code after the previous response:
+
+data |> 
+  count(publication_4) |> 
+   ggplot(aes(x = "", y = n,
+             fill = reorder(publication_4,n))) +
+  geom_bar(stat = "identity", width = 1) + 
+  coord_polar(theta = "y") + 
+  theme_void() + 
+  theme(
+    legend.box.spacing = unit(0.6, "cm"),
+    plot.margin = margin(10, 20, 10, 10),
+    legend.key.size = unit(0.4, "cm"),  
+    legend.text = element_text(size = 8) 
+  ) +
+  labs(title = "Deaf-Technology-Sentiment By Source",
+       subtitle = "Limited NexisUni Run",
+       caption = "Graphic by Tonatiuh Leung-Arellano, 9-16-2026")
+
+# New problem arises, there's a bit of text above the legend that says "reorder(publication_4, n). I'm assuming it's from the fill in aes. My final prompt:
+
+Shrinking the legend worked. But now I can see that there's text above the legend that says "reorder(publication_4,n)". How can this be removed?
+
+# Claude's response:
+
+That text is the legend's title, and by default ggplot2 auto-generates it from whatever expression you used inside aes() — in this case, literally the text of your fill = reorder(publication_4, n) call. ggplot doesn't know you just wanted reorder() for sorting purposes; it treats the whole expression as the "name" of that aesthetic mapping and prints it verbatim.
+
+The fix is to explicitly set the legend title yourself, which overrides that auto-generated text. Add fill = "..." inside labs():
+
+r
+data |> 
+  count(publication_4) |> 
+  ggplot(aes(x = "", y = n, fill = reorder(publication_4, n))) +
+  geom_bar(stat = "identity", width = 1) + 
+  coord_polar(theta = "y") + 
+  theme_void() +
+  theme(
+    legend.box.spacing = unit(0.6, "cm"),
+    plot.margin = margin(10, 20, 10, 10),
+    legend.key.size = unit(0.4, "cm"),
+    legend.text = element_text(size = 8)
+  ) +
+  labs(title = "Deaf-Technology-Sentiment By Source",
+       subtitle = "Limited NexisUni Run",
+       caption = "Graphic by Tonatiuh Leung-Arellano, 9-16-2026",
+       fill = "Publication")   # <-- sets/overwrites the legend title
+
+What's happening: labs() isn't just for the title/subtitle/caption — it accepts a name for every aesthetic you've mapped (x, y, fill, color, size, etc.). Whatever string you assign to fill here becomes the legend header, replacing the raw reorder(publication_4, n) expression. I used "Publication" as a reasonable label since that's what the legend is actually showing, but swap in whatever's most accurate for your data.
+
+# I like Publication being the title for the legend, so now my code is:
+
+data |> 
+  count(publication_4) |> 
+   ggplot(aes(x = "", y = n,
+             fill = reorder(publication_4,n))) +
+  geom_bar(stat = "identity", width = 1) + 
+  coord_polar(theta = "y") + 
+  theme_void() + 
+  theme(
+    legend.box.spacing = unit(0.6, "cm"),
+    plot.margin = margin(10, 20, 10, 10),
+    legend.key.size = unit(0.4, "cm"),  
+    legend.text = element_text(size = 8) 
+  ) +
+  labs(title = "Deaf-Technology-Sentiment By Source",
+       subtitle = "Limited NexisUni Run",
+       caption = "Graphic by Tonatiuh Leung-Arellano, 9-16-2026",
+       fill = "Publication")
 
 # NOTES ON FIXING COMPLEX Date COLUMN WITH HOURS AND MINUTES
 
