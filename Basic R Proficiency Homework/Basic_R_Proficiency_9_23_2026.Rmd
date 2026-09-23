@@ -1,0 +1,58 @@
+---
+title: "Basic R Proficiency"
+author: "Tonatiuh Leung-Arellano"
+date: "2026-09-23"
+output: html_document
+---
+
+Homework: Basic R Proficiency
+
+# Loading libraries
+```{r}
+library(tidyverse)
+library(janitor)
+```
+
+
+# Loading in mob analysis data & cleaning column names
+```{r}
+mob_data <- rio::import("https://raw.githubusercontent.com/wellsdata/CompText_Jour/main/data/mob_analysis_data.csv")
+
+mob_data <- clean_names(mob_data)
+  
+```
+
+# Number of rows and columns
+```{r}
+nrow(mob_data)
+ncol(mob_data)
+```
+
+# Counting the top 15 newspaper entries
+# slice_max allows me to do top 15, with_ties removes any ties at the end (there were 17 entries with ties allowed, we want 15)
+```{r}
+mob_data |> 
+  count(newspaper) |> 
+  arrange(desc(n)) |> 
+  slice_max(order_by = n, n = 15, with_ties = FALSE)
+```
+
+
+
+# Counting different entires in 'keyword' column
+```{r}
+mob_data |> 
+  count(keyword) |> 
+  arrange(desc(n))
+```
+
+# Counting specific articles by year
+```{r}
+
+```
+
+# ggplot for total entries by year
+```{r}
+
+```
+
