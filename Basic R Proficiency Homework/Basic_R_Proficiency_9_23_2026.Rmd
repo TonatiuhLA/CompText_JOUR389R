@@ -1,8 +1,8 @@
 ---
 title: "Basic R Proficiency"
 author: "Tonatiuh Leung-Arellano"
-date: "2026-09-23"
-output: html_document
+date: "2026-09-25"
+output: R Markdown File
 ---
 
 Homework: Basic R Proficiency
@@ -48,11 +48,31 @@ mob_data |>
 
 # Counting specific articles by year
 ```{r}
-
+mob_data |> 
+  group_by(year) |> 
+  count(docname)
 ```
 
 # ggplot for total entries by year
 ```{r}
 
+mob_data_by_year <- mob_data |> 
+  group_by(year) |> 
+  count(docname) |> 
+  arrange(desc(n))
+
+ggplot(mob_data_by_year,aes(x=year, y=n, fill=n)) +
+  geom_col(position = "dodge") +
+  theme(legend.position = "none") +
+  labs(title = "Total Entries by Year",
+       subtitle = "Based in 3836 extracted articles about lynching",
+       caption = "Graphic by Tonatiuh Leung-Arellano, 9-25-2026",
+       y="Articles",
+       x="Year")
+  
 ```
+
+Memo:
+
+Overall, I derive one overarching takeaway and two major flaws in the data. Beginning with the takeaways, according to this data shown by plotting, the peak of lynching reporting was in 1891, with a distribution on the x-axis very similar to the normal distribution. There is a lot of variance among the numbers, where every few years we see a spike, then a downward leveling followed by another larger spike until 1891, where the concurrent spikes begin to lower in number. Moving on to the flaws. When doing the analysis for counting the top 15 newspaper entries, I noted that the number 1 spot was shown to be NA. This translates to the newspaper name not being documented. I would assume this means the data is flawed in that we are unable to tell where 1/10th of the sources come from. The other flaw, which may carry more relevance, is that there is virtually no data in this dataset to show that there was any lynching reporting before 1835, with 3 entries put on 1805 and nothing before that. The plot and the tables also show that from 1835 onward, lynching reporting was essentially every year. I have two questions: 1) Knowing US history, we know that lynching has gone on long before 1835, why is it that there are almost no sources to support that in this dataset? 2) Why does the number of sources peak in 1891?
 
