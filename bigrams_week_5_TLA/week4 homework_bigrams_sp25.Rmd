@@ -1,0 +1,93 @@
+---
+title: "Week 4 Bigrams Homework"
+author: "Rob Wells"
+date: '2025-02-20'
+output: html_document
+---
+
+# Jour 689 Spring 2025:
+
+In this exercise, you will import the Nexis spreadsheet and create bigrams from the headlines
+
+Setup. These instructions are important. Follow them carefully
+
+1) Create a new folder called "bigrams_week_5" in your class folder
+2) Copy this file to "bigrams_week_5"
+3) Copy your spreadsheet to "bigrams_week_5"
+4) Create an .Rproj file that points to "bigrams_week_5"
+
+```{r}
+#load tidyverse, tidytext, rio, janitor libraries
+library(tidyverse)
+library(tidytext)
+library(rio)
+library(janitor)
+
+```
+
+```{r}
+#Import spreadsheet using rio::import and clean the names
+
+
+DTS <- rio::import("Excel_Deaf_AND_Technology_AND_Sentiment.xlsx") 
+DTS <- clean_names(DTS)
+
+```
+# Tokenize the hlead column
+
+Copy the code from the in-class bigrams exercise and tokenize just the hlead column from your dataframe
+
+Hint: you're changing just one variable
+
+```{r}
+bigrams <- DTS |> 
+  unnest_tokens(bigram, hlead, token="ngrams", n=2)
+
+bigrams
+```
+
+#Remove stopwords and count the words
+```{r}
+
+data(stop_words)
+
+bigrams |> 
+  filter(!is.na(bigram)) |> 
+  separate(bigram, c("word1", "word2"), sep = " ") |> 
+  filter(!word1 %in% stop_words$word) |> 
+  filter(!word2 %in% stop_words$word) |> 
+  count(word1, word2)
+
+```
+
+# Create Bigrams
+
+```{r}
+
+
+#Filter out stop words.
+
+bigram_filtered <- bigrams |> 
+  filter(!is.na(bigram)) |> 
+  separate(bigram, c("word1", "word2"), sep = " ") |> 
+  filter(!word1 %in% stop_words$word) |> 
+  filter(!word2 %in% stop_words$word) |> 
+  count(word1, word2, sort = TRUE)
+
+
+
+```
+
+
+# Saving dataframes to the folder
+```{r}
+write_csv(bigram_filtered, "bigram_filtered.csv")
+write_csv(bigrams, "bigrams.csv")
+write_csv(DTS, "DeafTechnologySentiment.csv")
+```
+
+
+
+# Write 250 words about what your learned analyzing the list of tokens and bigrams. Include questions about the process and any difficulties you encountered.
+
+Through the bigram activity, I finally understood what a bigram actually is and how that concept can be applied to grouped words of varying lengths, such as unigrams and trigrams. However, that understanding leads to a question. I want to know: Looking at the filtered bigram dataset, I understand that counting word groupings allows us to derive baselines for findings about main points in the sources and overarching themes. What I don’t understand is: With this setup, we lose the ability to make full connections between texts that use these words in the same order. How do we derive actual findings from this setup? Do we combine the bigram approach with other analyses such as trigrams or sentiment analysis? Aside from that, I learned more about how count() organizes tables with multiple inputs. To me, it seems that count(word1, word2) will result in the table being sorted in ascending order by word1, presumably using the ASCII encoding for the strings. Another thing I would like to learn is the different types of tokens we can use and their ideal applications, as in this assignment we use token = “ngrams” in unnest_tokens(). I also learned another way to extract columns from a dataframe, that way being filter(!is.na(xxx)). Previously, I would use select(), but I can assume that they have their own applications. I wonder if one is more efficient than the other. Also, I wonder what variation of xx-gram is too much for this purpose? Quadgram, pentagram, …?
