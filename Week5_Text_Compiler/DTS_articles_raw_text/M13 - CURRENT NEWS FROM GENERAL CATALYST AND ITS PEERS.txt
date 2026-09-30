@@ -1,0 +1,95 @@
+
+
+
+News Bites - Private Companies
+July 1, 2026 Wednesday
+
+
+Copyright 2026 Jupiter International (Australia) Pty Ltd. All Rights Reserved
+
+
+Section: STOCK
+Length: 2273 words
+Body
+
+
+DASHBOARD: M13 
+*| PermID | 5060022710 | 
+*| Website | / | 
+*| Industry | Venture Capital | 
+ACTIVITIES:
+M13 is an early-stage venture capital firm dedicated to partnering with visionary founders to build and scale disruptive software companies through seed and Series A investments. Established by brothers Carter and Courtney Reum, the firm operates as a full-stack collaborator, leveraging a team of full-time operators to provide strategic guidance, operational support, and resources that enable efficient growth and the creation of category-defining enterprises. With a portfolio spanning innovative software solutions, M13 emphasizes sectors poised for transformative impact. Among its fastest-growing segments are AI-driven technologies, including AI matchmaking applications that revolutionize modern dating, AI-powered platforms for global HR compliance and payroll optimization, and scalable AI agents enhancing enterprise customer experience. This targeted focus on artificial intelligence underscores M13''s commitment to fostering high-potential innovations that address evolving market demands and drive sustainable value creation.
++ M13 [2 News That Matters]
++ CREATIVE BIOLABS UNVEILS ENHANCED LAMBDA AND M13 PHAGE LIBRARIES FOR GENE DISCOVERY
+SHIRLEY, NY, April 30, 2026 /24-7PressRelease/-- As the demand for faster gene discovery and efficient biomolecule engineering grows, Creative Biolabs has unveiled upgraded lambda and M13 phage platforms that streamline workflows from genome-scale exploration to high-throughput functional screening. 
+The high-fidelity lambda genome libraries remain a preferred system for large DNA inserts up to 25 kb, while maintaining stable representation. The company modernized this classical platform with acoustic DNA shearing for controlled fragmentation, optimized size-selection for ideal insert length distribution, and ultra-efficient in vitro packaging extracts delivering titers above 10^9 pfu/ g DNA. 
+In addition, bias-minimized protocols tailored for complex or non-model organisms enable capture of rare genomic elements and construction of libraries with exceptional complexity, supporting applications like whole-genome mapping, metagenomics, gene discovery, and functional screening. 
+The upgraded M13 phage display platform supports ultra-diverse libraries often reaching 10^10 to 10^11 unique variants, ideal for identifying high-affinity antibodies, peptides, and other ligands. It offers multiple display formats including pIII monovalent and pVIII multivalent configurations, plus Trimer Codon Technology to eliminate stop codons and ensure uniform amino-acid distribution. 
+Together, these capabilities position Creative Biolabs’ phage platforms as engines for antibody discovery, epitope mapping, protein engineering, and diagnostic development. "Phage-based technologies continue to shape the future of biotechnology," stated a company spokesperson. "Our upgraded lambda and M13 platforms demonstrate our commitment to delivering advanced, customizable, and reliable tools that enable researchers to achieve meaningful breakthroughs."
++ LATIF PERACHA FRAMES OPENFX SERIES A AS STRATEGIC FIT FOR M13'S TECH-SCALE PLAY
+In a statement dated 15th April 2026, Latif Peracha said M13 would co-lead OpenFX's Series A, highlighting a strategic partnership to accelerate OpenFX's growth and product development. The move mirrors a shared view that the OpenFX platform is well positioned to modernize FX trading.
+The investment reflects a belief that OpenFX can address persistent frictions in FX trading, including high fees, slow settlement times, and limited transparency, while expanding access for diverse investors.
+OpenFX's ongoing expansion in the digital currency ecosystem and rising demand for efficient, transparent FX solutions provide a favorable backdrop for the round. M13's experience in scaling technology companies offers strategic resources to strengthen the platform's infrastructure and broaden its geographic reach.
+OpenFX plans to roll out new features and services designed to meet evolving user needs, with the collaboration expected to support go-to-market efforts, user acquisition, and retention as the company grows.
+The partnership underscores a broader trend of fintech investors partnering with platform builders to navigate regulatory and competitive landscapes as the market matures.
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ GENERAL CATALYST [3 News That Matters]
++ INDIA QUOTIENT AND GENERAL CATALYST BACK OMLI'S SEED ROUND FOR CHILD-FOCUSED AI SPEECH TECHNOLOGY
+Gurugram-based Omli has closed a seed round totaling $1.5 million, led by India Quotient with participation from General Catalyst, the company announced on June 17, 2026. The funding will back Omli's work on AI infrastructure for children's speech and language development.
+Founders say most existing speech models are trained on adult voices, creating gaps when interacting with children whose speech patterns differ in tone and pace.
+Omli's flagship OmliKids product lets children aged three to ten converse with an AI companion named Doro, positioning the app as a conversational platform rather than a game-based experience. The product has already crossed 500,000 downloads on Google Play within a few months of launch.
+To address the shortcomings of existing models, Omli has developed VedAnsh-v1, a speech-to-text and voice activity detection system tailored for children's voices. In tests with kid speech, the VedAnsh-v1 engine delivered lower word error rates than many commercial systems. Co-founder Siddhant Garg says the team aims to reach adult-grade accuracy for children's speech, including support for Indian accents and vernacular languages.
+With about 15 employees, Omli is working on the next generation of its speech model and plans to extend into conversational intelligence that adapts in real time to a child's speaking pace and communication style. The startup also intends to develop screening tools to help parents and educators identify articulation challenges early. Shivam Munshi notes that many children today are silent on screens, underscoring the need for technology that encourages verbal interaction. Investors see potential in this underserved market, with India Quotient partner Madhukar describing children as the largest consumer segment for which AI solutions are still lacking.
++ RYLO LANDS $85 MILLION GROWTH INVESTMENT LED BY GENERAL CATALYST, FUELING EXPANSION BEYOND $100 MILLION IN FUNDING
+Rylo, formerly known as Nagish, has secured $85 million in growth funding in a round led by General Catalyst's Customer Value Fund, with participation from Canaan, Vertex Ventures, and Contour. The investment lifts total funding beyond $100 million and signals strong appetite for AI-powered accessibility solutions.
+Based in Tel Aviv and New York, Rylo builds an AI-enabled communication platform designed to improve accessibility for Deaf and hard-of-hearing individuals. Its tools provide real-time captioning for phone calls, rapid speech-to-text conversion, text-to-speech capabilities, and in-person transcription, enabling smoother interactions across personal, professional, and public settings.
+Rylo has broadened its product ecosystem through innovation and acquisitions, most notably acquiring Sign.mt in 2025 and launching Rylo Sign for real-time translation between spoken and sign languages. The platform also integrates speaker recognition, sentiment analysis, and fraud detection to enhance usability and accuracy across channels.
+Investors view Rylo as a strong player in the fast-growing accessibility tech sector, addressing a long-standing market need by leveraging AI to deliver scalable, cost-effective communication solutions. With regulations evolving and digital communication increasing in importance, demand for barrier-free tools is rising worldwide.
+The fresh capital will support expansion of engineering, product development, and commercial operations, while enabling further AI research and infrastructure development and the deployment of new workplace accessibility solutions. Rylo plans to refine its AI models, broaden its toolset, and pursue a long-term strategy of global expansion and wider adoption among individuals and enterprise users.
++ ROBOTICS STARTUP STANDARD BOTS SECURES UNICORN VALUATION WITH $200 MILLION FUNDING
+Standard Bots has joined unicorn ranks after closing a $200 million Series C round co-led by General Catalyst and RoboStrategy, valuing the New York-based robotics company at $1 billion. The funding was announced on 10th June 2026.
+The company was founded in 2011 by Evan Beard, and David Golden joined as co-founder in 2020. Golden, noted for his work with Bowery Farming and LeapPay, has helped steer the company through its latest growth phase.
+The AI-native robotic arms learn by demonstration, letting operators teach tasks directly and shaving deployment times and costs. The technology supports use across machining, welding and assembly, with claimed costs about 30% lower than legacy providers. Customers include Amazon, Lockheed Martin, NASA, the U.S. Army and a broad base of SMBs.
+Standard Bots operates a vertically integrated model, designing actuators and assembling most products in-house, with plans to domestically manufacture nearly all components by 2027 to bolster U.S. manufacturing capabilities. Beard has become an advocate for industrial efficiency, briefing policymakers on the value of tech-enabled productivity.
+The $200 million round will fund expansion of the Glen Cove facility to 70,000 square feet and support a target of capturing 10% of new U.S. industrial robot deployments this year, even as the company faces competition from established domestic suppliers and a rapid pace of robot installations in China.
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++ LIGHTSPEED VENTURE PARTNERS [3 News That Matters]
++ LIGHTSPEED OPPORTUNITY FUND LIQUIDATES NETSKOPE STAKE, REALIZING ABOUT $15.1 MILLION
+In a sequence spanning 12th and 15th June 2026, Lightspeed Opportunity Fund, L.P. converted 1,650,000 Netskope Class B shares into Class A shares and then sold 1,313,827 Class A shares at a weighted average price of $9.19 per share as Netskope traded around $8.95, down about 60% over the prior year and near its 52-week low of $7.67. On 15th June 2026, the fund sold a further 336,173 Class A shares at $9.00 each, bringing the total Netskope disposition to $15,099,627 and leaving the fund with no remaining Class A stock. Despite this divestment, other Lightspeed affiliates continue to hold substantial Netskope Class B stock, totaling 62,843,207 shares as of 12th June 2026, with Class B stock convertible to Class A on a one-for-one basis at the holder's option or automatically on 19th September 2035.
++ ROHIT KAUL NAMED MARKETING CHIEF AT LIGHTSPEED VENTURE PARTNERS AS FIRM TARGETS $500 MILLION INDIA-SEA FUND
+Lightspeed Venture Partners has named Rohit Kaul as its new head of marketing, a strategic hire as the firm prepares to raise its fifth India and Southeast Asia-focused fund, targeting around $500 million.
+Kaul previously served as Vice President of Marketing at Blume Ventures since February 2023.
+His background also includes pivotal stints at Sacra and HCL, equipping him with a broad toolkit to strengthen Lightspeed's marketing strategy as the firm deepens its focus on the Indian and Southeast Asian markets.
+The appointment comes as Lightspeed navigates a slowdown in startup funding and mounting pressure on portfolio performance in the region.
+Lightspeed has built a notable track record in India's startup ecosystem, backing companies such as OYO, Udaan, ShareChat, PhysicsWallah, and Pocket FM, and has undergone several leadership changes within its marketing and communications functions, including the departure of Mansi Chugh and Carina Chopra in recent years. The firm's strategic hire aims to sharpen brand presence and outreach while it pursues fundraising opportunities.
++ LIGHTSPEED INVESTS AGAIN TO ACCELERATE GROWTH OF AGENT-ASSESSMENT PLATFORM
+Lightspeed Venture Partners has executed back-to-back investments in a promising agent-evaluation startup, with the funding round publicly disclosed on 13th May 2026. The move highlights Lightspeed's willingness to back early-stage companies addressing inefficiencies in how agents are evaluated.
+The startup has developed a platform designed to streamline and upgrade agent assessments, drawing interest from venture capitalists eager to back tech-enabled business operations improvements.
+The latest financing will enable the company to broaden its product offerings and enhance its technical capabilities. Lightspeed's track record with disruptive technologies underpins its view that the market for efficient evaluation tools is expanding, and the startup has already generated interest from large firms across several sectors, signaling a robust pipeline.
+In addition to scaling, the company plans to invest in marketing to raise brand awareness and secure a stronger foothold in a crowded market. Lightspeed's continued involvement will be instrumental in helping the startup navigate regulatory and competitive challenges and capitalize on new growth opportunities.
+Overall, Lightspeed's participation demonstrates its strategy of backing growth-ready, niche-market players. Investors will want to watch this space as technology continues to reshape traditional business practices and create new paths to success.
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Created by 
+Classification
+
+
+Language: English
+
+Document-Type: Analyst Comment/Recommendation; Share Price Movement/Disruptions
+
+Publication-Type: Newswire
+
+Subject:  VENTURE CAPITAL (91%);  ARTIFICIAL INTELLIGENCE (90%);  FINANCING ROUNDS (90%);  BUSINESS REPORTS & FORECASTS (90%);  INNOVATION (90%);  PRESS RELEASES (90%);  SOFTWARE SERVICES & APPLICATIONS (90%);  FINANCIAL MARKET UPDATES (90%);  TECHNOLOGY (89%);  AMINO ACIDS  PEPTIDES & PROTEINS (89%);  BIOTECHNOLOGY & GENETIC SCIENCE (89%);  GENES & CHROMOSOMES (89%);  DNA (87%);  GENOMICS (87%);  IMMUNOLOGIC FACTORS (86%);  OUTPUT & DEMAND (78%);  PHARMACEUTICALS & BIOTECHNOLOGY (78%);  ALLIANCES & PARTNERSHIPS (77%);  TECHNOLOGICAL INNOVATION (77%);  COMPUTER SOFTWARE (77%);  SOFTWARE MAKERS (77%);  BIOLOGY (71%);  PLATFORMS & ISSUES (69%);  COURTSHIP & DATING (69%);  CUSTOMER RELATIONS (68%);  CUSTOMER EXPERIENCE (53%); DNA (87%); PLATFORMS & ISSUES (69%); BIOLOGY (72%); TECHNOLOGY (89%); COURTSHIP & DATING (69%); PRESS RELEASES (90%); BUSINESS REPORTS & FORECASTS (90%); FINANCING ROUNDS (90%); FINANCIAL MARKET UPDATES (90%); AMINO ACIDS, PEPTIDES & PROTEINS (89%); VENTURE CAPITAL (90%); GENES & CHROMOSOMES (89%); CUSTOMER RELATIONS (69%); GENOMICS (87%); BIOTECHNOLOGY & GENETIC SCIENCE (89%); OUTPUT & DEMAND (76%); INNOVATION (90%); TECHNOLOGICAL INNOVATION (77%); CUSTOMER EXPERIENCE (54%); ARTIFICIAL INTELLIGENCE (90%); ALLIANCES & PARTNERSHIPS (78%)
+
+Company:  STACK INFRASTRUCTURE INC (72%); M13
+
+Ticker: M13
+
+Industry: NAICS531210 OFFICES OF REAL ESTATE AGENTS & BROKERS (72%); NAICS518210 COMPUTING INFRASTRUCTURE PROVIDERS, DATA PROCESSING, WEB HOSTING, AND RELATED SERVICES (72%); SIC7374 COMPUTER PROCESSING & DATA PREPARATION & PROCESSING SERVICES (72%); SIC6531 REAL ESTATE AGENTS & MANAGERS (72%); COMPUTER SOFTWARE (90%); SOFTWARE MAKERS (89%); FINANCIAL MARKET UPDATES (90%); VENTURE CAPITAL (90%); SOFTWARE SERVICES & APPLICATIONS (93%); PHARMACEUTICALS & BIOTECHNOLOGY (78%); ARTIFICIAL INTELLIGENCE (90%); IMMUNOLOGIC FACTORS (86%); 523910 (%)
+
+Geographic: United States; United States
+
+Load-Date: July 1, 2026
+
+
+End of Document

@@ -1,0 +1,80 @@
+
+
+
+News Bites - Private Companies
+June 20, 2026 Saturday
+
+
+Copyright 2026 Jupiter International (Australia) Pty Ltd. All Rights Reserved
+
+
+Section: ANNOUNCEMENTS
+Length: 585 words
+Body
+
+
+Rylo has secured $85 million in growth funding in a round led by General Catalyst's Customer Value Fund, with participation from Canaan, Vertex Ventures, and Contour. This investment lifts total funding to beyond $100 million and underscores investor confidence in AI-driven accessibility technology.
+The company, headquartered in Tel Aviv and New York, builds an AI-powered platform that improves accessibility for Deaf and hard-of-hearing users. Its tools include real-time captioning for phone calls, instant speech-to-text, text-to-speech, and in-person transcription, designed to support everyday communication across home, work, and public settings.
+Rylo has grown its ecosystem through innovation and strategic moves, most notably the 2025 acquisition of Sign.mt and the launch of Rylo Sign, which enables real-time translation between spoken and sign languages. Additional AI features such as speaker recognition, sentiment analysis, and fraud detection enhance performance across channels.
+The investment signals a positive outlook for the accessibility technology sector as demand increases with broader digital communication and evolving regulations. The capital will fund hiring in engineering, product, and commercial teams, plus AI research and infrastructure, with a long-term plan for global expansion and broader adoption by individuals and organizations.
+INDEX
+SECTION 1 GENERAL CATALYST PROFILE
+SECTION 2 GENERAL CATALYST TOP MANAGEMENT
+SECTION 1 GENERAL CATALYST PROFILE
+1.1 ACTIVITIES
+General Catalyst, established in 2000 and headquartered in Cambridge, Massachusetts, operates as a leading global investment and transformation firm dedicated to partnering with visionary entrepreneurs. Its core business activities revolve around providing venture capital across all stages-from seed funding to growth equity-while offering strategic advisory services, operational expertise, and ecosystem integration to cultivate resilient enterprises. The firm invests in a broad spectrum of sectors, including healthcare, financial technology, defense, industrials, climate, and energy, with a strong emphasis on fostering innovation that yields both financial returns and societal benefits. Among its fastest-growing segments, applied artificial intelligence emerges prominently, fueled by a landmark $8 billion capital commitment in October 2024 to accelerate AI-centric startups and transformations. Managing over $30 billion in assets, General Catalyst''s portfolio includes transformative companies such as Airbnb and Stripe, underscoring its pivotal role in scaling high-impact ventures worldwide.
+1.2 SUMMARY
+PermID: 4297042748
+Website: /
+SECTION 2 GENERAL CATALYST TOP MANAGEMENT
+*| Name | Designation | 
+*| Bob Thornton | CEO | 
+*| Ken Chenault | Chairman & Managing Director | 
+*| Paul Fielding | CFO | 
+*| Yuri Sagalov | Managing Director | 
+*| Madhu Namburi | Managing Director | 
+*| Marc Bhargava | Managing Director | 
+*| Neeraj Arora | Managing Director | 
+*| Paul Kwan | Managing Director | 
+*| Pranav Singhvi | Managing Director | 
+*| Quentin Clark | Managing Director | 
+*| Trevor Oelschig | Managing Director | 
+*| Alex Tran | Managing Director | 
+*| Chris Bischoff | Managing Director | 
+*| David Fialkow | Managing Director & Co-Founder | 
+*| Elena Viboch | Managing Director | 
+*| Holly Maloney | Managing Director & Head of Health Assurance | 
+*| Jeannette zu Furstenberg | Managing Director | 
+*| Joel Cutler | Managing Director & Co-Founder | 
+*| KV Mohan | Managing Director | 
+*| Larry Bohn | Managing Director | 
+*| Hirsh Jain | Co-Founder | 
+*| Athul Jacob | Co-Founder & Chief AI Officer | 
+*| Thomas Mathew | Co-Founder | 
+PermID: 4297042748
+Created by  for News Bites Finance
+Classification
+
+
+Language: English
+
+Document-Type: BARD_Snippets
+
+Publication-Type: Newswire
+
+Subject:  ARTIFICIAL INTELLIGENCE (90%);  TECHNOLOGY (90%);  FINANCING ROUNDS (90%);  PROSTHETIC & ASSISTIVE DEVICES (90%);  BUSINESS REPORTS & FORECASTS (90%);  FINANCIAL MARKET UPDATES (90%);  MANAGERS & SUPERVISORS (89%);  INNOVATION (89%);  EXECUTIVES (86%);  OUTPUT & DEMAND (78%);  FINANCIAL TECHNOLOGY (78%);  SOCIETY  SOCIAL ASSISTANCE & LIFESTYLE (78%);  COMPANY ACTIVITIES & MANAGEMENT (78%);  ENTREPRENEURSHIP (78%);  ON DEMAND SERVICES (78%);  VENTURE CAPITAL (78%);  BUSINESS NEWS (77%);  INFORMATION TECHNOLOGY INDUSTRY (77%);  DEAFNESS (77%);  PATTERN RECOGNITION (77%);  FOREIGN INVESTMENT (77%);  AI GENERATED AUDIO (77%);  VOICE RECOGNITION (77%);  COMPUTER TELEPHONY (75%);  MANUFACTURING OUTPUT (72%);  GLOBALIZATION (71%);  VACATION RENTALS (69%);  ASSOCIATIONS & ORGANIZATIONS (65%);  ALLIANCES & PARTNERSHIPS (58%); MANUFACTURING OUTPUT (72%); AI GENERATED AUDIO (77%); TECHNOLOGY (90%); OUTPUT & DEMAND (78%); BUSINESS REPORTS & FORECASTS (90%); INNOVATION (89%); FINANCING ROUNDS (90%); FINANCIAL MARKET UPDATES (90%); VOICE RECOGNITION (77%); COMPANY ACTIVITIES & MANAGEMENT (78%); PROSTHETIC & ASSISTIVE DEVICES (90%); VENTURE CAPITAL (78%); DEAFNESS (77%); SOCIETY, SOCIAL ASSISTANCE & LIFESTYLE (78%); GLOBALIZATION (71%); ARTIFICIAL INTELLIGENCE (90%); ALLIANCES & PARTNERSHIPS (58%); BUSINESS NEWS (77%); FINANCIAL TECHNOLOGY (78%); FOREIGN INVESTMENT (77%); ENTREPRENEURSHIP (78%); Company Activities (%); Company Summary (%); TOP MANAGEMENT (%)
+
+Company: General Catalyst
+
+Ticker: GENERALCATALYST
+
+Industry: ON DEMAND SERVICES (78%); MANUFACTURING OUTPUT (72%); AI GENERATED AUDIO (77%); FINANCIAL MARKET UPDATES (90%); PATTERN RECOGNITION (77%); VOICE RECOGNITION (77%); VACATION RENTALS (69%); PROSTHETIC & ASSISTIVE DEVICES (90%); VENTURE CAPITAL (78%); COMPUTER TELEPHONY (75%); ARTIFICIAL INTELLIGENCE (90%); FINANCIAL TECHNOLOGY (78%); INFORMATION TECHNOLOGY INDUSTRY (77%); 523910 (%)
+
+Person:  KENNETH I CHENAULT (50%)
+
+Geographic:  TEL AVIV, ISRAEL (73%); TEL AVIV, ISRAEL (72%);  MASSACHUSETTS, USA (79%); MASSACHUSETTS, USA (79%);  UNITED STATES (79%);  ISRAEL (73%); United States; United States
+
+Load-Date: June 20, 2026
+
+
+End of Document

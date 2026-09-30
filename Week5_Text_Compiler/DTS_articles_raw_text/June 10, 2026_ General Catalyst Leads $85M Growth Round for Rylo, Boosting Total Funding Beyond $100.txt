@@ -1,0 +1,79 @@
+
+
+
+News Bites - Private Companies
+June 20, 2026 Saturday
+
+
+Copyright 2026 Jupiter International (Australia) Pty Ltd. All Rights Reserved
+
+
+Section: ANNOUNCEMENTS
+Length: 754 words
+Body
+
+
+Rylo, formerly known as Nagish, has secured $85 million in growth funding in a round led by General Catalyst’s Customer Value Fund, with participation from Canaan, Vertex Ventures, and Contour. This latest investment pushes the company’s total funding beyond $100 million and reflects growing investor confidence in AI-driven accessibility technologies.
+Based in Tel Aviv and New York, Rylo focuses on developing communication solutions that improve accessibility for Deaf and hard-of-hearing individuals. The company offers an AI-powered communication platform designed to make everyday interactions more accessible. Its technology provides real-time captioning for phone calls, instant speech-to-text conversion, text-to-speech capabilities, and in-person transcription services. These tools help users communicate more effectively in personal, professional, and public environments while reducing reliance on traditional interpretation services.
+Rylo has expanded its product ecosystem through innovation and strategic acquisitions. Following its acquisition of Sign.mt in 2025, the company launched Rylo Sign, a solution that enables real-time translation between spoken and sign languages. The platform also incorporates advanced AI features such as speaker recognition, sentiment analysis, and fraud detection, enhancing both usability and communication accuracy across multiple channels.
+Investors view Rylo as a strong player within the rapidly growing accessibility technology sector. The company addresses a long-standing market need by leveraging artificial intelligence to deliver scalable, cost-effective communication solutions. As accessibility regulations evolve and digital communication becomes increasingly important, demand for technologies that remove communication barriers continues to rise worldwide.
+The newly raised capital will support Rylo’s plans to expand its engineering, product development, and commercial operations teams. The company also intends to invest in AI research, infrastructure development, and new workplace accessibility solutions. By continuously refining its AI models and expanding its suite of communication tools, Rylo aims to improve reliability, accuracy, privacy, and user independence. Looking ahead, Rylo is pursuing a long-term strategy focused on global expansion and broader adoption among both individual and enterprise users.
+INDEX
+SECTION 1 GENERAL CATALYST PROFILE
+SECTION 2 GENERAL CATALYST TOP MANAGEMENT
+SECTION 1 GENERAL CATALYST PROFILE
+1.1 ACTIVITIES
+General Catalyst, established in 2000 and headquartered in Cambridge, Massachusetts, operates as a leading global investment and transformation firm dedicated to partnering with visionary entrepreneurs. Its core business activities revolve around providing venture capital across all stages-from seed funding to growth equity-while offering strategic advisory services, operational expertise, and ecosystem integration to cultivate resilient enterprises. The firm invests in a broad spectrum of sectors, including healthcare, financial technology, defense, industrials, climate, and energy, with a strong emphasis on fostering innovation that yields both financial returns and societal benefits. Among its fastest-growing segments, applied artificial intelligence emerges prominently, fueled by a landmark $8 billion capital commitment in October 2024 to accelerate AI-centric startups and transformations. Managing over $30 billion in assets, General Catalyst''s portfolio includes transformative companies such as Airbnb and Stripe, underscoring its pivotal role in scaling high-impact ventures worldwide.
+1.2 SUMMARY
+PermID: 4297042748
+Website: /
+SECTION 2 GENERAL CATALYST TOP MANAGEMENT
+*| Name | Designation | 
+*| Bob Thornton | CEO | 
+*| Ken Chenault | Chairman & Managing Director | 
+*| Paul Fielding | CFO | 
+*| Yuri Sagalov | Managing Director | 
+*| Madhu Namburi | Managing Director | 
+*| Marc Bhargava | Managing Director | 
+*| Neeraj Arora | Managing Director | 
+*| Paul Kwan | Managing Director | 
+*| Pranav Singhvi | Managing Director | 
+*| Quentin Clark | Managing Director | 
+*| Trevor Oelschig | Managing Director | 
+*| Alex Tran | Managing Director | 
+*| Chris Bischoff | Managing Director | 
+*| David Fialkow | Managing Director & Co-Founder | 
+*| Elena Viboch | Managing Director | 
+*| Holly Maloney | Managing Director & Head of Health Assurance | 
+*| Jeannette zu Furstenberg | Managing Director | 
+*| Joel Cutler | Managing Director & Co-Founder | 
+*| KV Mohan | Managing Director | 
+*| Larry Bohn | Managing Director | 
+*| Hirsh Jain | Co-Founder | 
+*| Athul Jacob | Co-Founder & Chief AI Officer | 
+*| Thomas Mathew | Co-Founder | 
+PermID: 4297042748
+Created by  for News Bites Finance
+Classification
+
+
+Language: English
+
+Document-Type: BARD_Snippets
+
+Publication-Type: Newswire
+
+Subject:  ARTIFICIAL INTELLIGENCE (90%);  TRANSLATORS & INTERPRETERS (90%);  TECHNOLOGY (90%);  FINANCING ROUNDS (90%);  PROSTHETIC & ASSISTIVE DEVICES (90%);  BUSINESS REPORTS & FORECASTS (90%);  FINANCIAL MARKET UPDATES (90%);  ENTREPRENEURSHIP (89%);  INNOVATION (89%);  COMPANY STRATEGY (78%);  BUSINESS OPERATIONS (78%);  FINANCIAL TECHNOLOGY (78%);  SOCIETY  SOCIAL ASSISTANCE & LIFESTYLE (78%);  COMPANY ACTIVITIES & MANAGEMENT (78%);  USABILITY (78%);  CUSTOMER RELATIONS (78%);  VENTURE CAPITAL (78%);  BUSINESS NEWS (77%);  INFORMATION TECHNOLOGY INDUSTRY (77%);  FOREIGN INVESTMENT (77%);  ECONOMIC DEVELOPMENT (76%);  GLOBALIZATION (76%);  PRODUCT DEVELOPMENT (76%);  DEAFNESS (76%);  PATTERN RECOGNITION (76%);  DISABLED PERSONS (76%);  AI GENERATED AUDIO (76%);  VOICE RECOGNITION (76%);  PRODUCT MANAGEMENT (75%);  COMPUTER TELEPHONY (74%);  COURT REPORTING SERVICES (72%);  DISABLED ACCESS (72%);  ACCESSIBLE WORKPLACE (71%);  MANUFACTURING OUTPUT (69%);  ALLIANCES & PARTNERSHIPS (58%); MANUFACTURING OUTPUT (69%); AI GENERATED AUDIO (76%); PRODUCT DEVELOPMENT (76%); TECHNOLOGY (90%); BUSINESS REPORTS & FORECASTS (90%); FINANCING ROUNDS (90%); FINANCIAL MARKET UPDATES (90%); BUSINESS OPERATIONS (78%); VOICE RECOGNITION (76%); COMPANY ACTIVITIES & MANAGEMENT (78%); PROSTHETIC & ASSISTIVE DEVICES (90%); VENTURE CAPITAL (78%); DEAFNESS (76%); FINANCIAL TECHNOLOGY (78%); CUSTOMER RELATIONS (78%); COMPANY STRATEGY (78%); INNOVATION (89%); ACCESSIBLE WORKPLACE (71%); PRODUCT MANAGEMENT (75%); USABILITY (78%); SOCIETY, SOCIAL ASSISTANCE & LIFESTYLE (78%); GLOBALIZATION (76%); ARTIFICIAL INTELLIGENCE (90%); ALLIANCES & PARTNERSHIPS (58%); BUSINESS NEWS (77%); FOREIGN INVESTMENT (77%); DISABLED ACCESS (72%); DISABLED PERSONS (76%); ECONOMIC DEVELOPMENT (76%); ENTREPRENEURSHIP (89%); Company Activities (%); Company Summary (%); TOP MANAGEMENT (%)
+
+Company: General Catalyst
+
+Ticker: GENERALCATALYST
+
+Industry: MANUFACTURING OUTPUT (69%); TRANSLATORS & INTERPRETERS (90%); AI GENERATED AUDIO (76%); FINANCIAL MARKET UPDATES (90%); PATTERN RECOGNITION (76%); VOICE RECOGNITION (76%); PROSTHETIC & ASSISTIVE DEVICES (90%); VENTURE CAPITAL (78%); FINANCIAL TECHNOLOGY (78%); INFORMATION TECHNOLOGY INDUSTRY (77%); COURT REPORTING SERVICES (72%); COMPUTER TELEPHONY (74%); USABILITY (78%); ARTIFICIAL INTELLIGENCE (90%); DISABLED ACCESS (72%); 523910 (%)
+
+Geographic:  TEL AVIV, ISRAEL (72%); TEL AVIV, ISRAEL (72%);  MASSACHUSETTS, USA (79%); MASSACHUSETTS, USA (79%);  UNITED STATES (79%);  ISRAEL (72%); United States; United States
+
+Load-Date: June 20, 2026
+
+
+End of Document

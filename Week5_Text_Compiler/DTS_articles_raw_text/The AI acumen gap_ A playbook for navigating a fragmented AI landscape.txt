@@ -1,0 +1,52 @@
+
+
+
+Fastcompany.com
+May 14, 2026 Thursday
+
+
+Copyright 2026 Mansueto Ventures, LLC All Rights Reserved
+Length: 851 words
+Byline: Tyler Perry
+Body
+
+
+We are facing our generation’s digital divide: the  Acumen Gap. According to our latest   trust in AI is not a baseline; it’s a spectrum defined by professional proximity and generational sentiment. On one side, you have knowledge workers and younger generations who use these tools daily and largely trust the trajectory of big tech and AI startups. Within the general population and older generations, however, only a small fraction trusts AI companies, while nearly half view the technology as a harbinger of a more dangerous future.
+This divide creates a communication paradox. If you speak to everyone, you resonate with no one. To survive this divided landscape, leaders must pivot from a universal AI narrative to a segmented credibility strategy.
+AUDIT YOUR AUDIENCE’S COMFORT CEILING
+Before issuing any communications, you must first understand your audience’s boundaries for AI use. The comfort levels are not just different; they are opposed.
+The insiders (Millennials and knowledge workers): These two groups have higher levels of trust, with 78% of knowledge workers and 71% of Millennials comfortable with AI-driven personalization of products and recommendations. 60% of Millennials are comfortable with AI-generated executive avatars. They value efficiency and innovation.
+The skeptics (Boomers and general population): In the general population, 38% are uncomfortable with AI-driven product or recommendation personalization, and a staggering 80% of Boomers reject the idea of automated executive messaging. They value humanity and oversight.
+The playbook shift: If you are a B2B tech company, lean into the future of work with AI. Consumer brands should put the bot in the background and keep their human leadership in the foreground.
+TECH LEADERS MUST MOVE FROM HYPE TO GOVERNANCE
+For companies whose primary audience is knowledge workers, the challenge isn’t proving that AI works; it’s proving that you are a responsible steward of it.
+The data: knowledge workers prioritize showing the work—63% want to see you consulting outside experts, and 66% rank a leader’s long-term reputation as a primary trust driver. Despite this group’s comfort level with AI, uneasiness remains around about AI’s use in automating critical business functions: 52% are not comfortable with AI generating legal or policy documents, and 58% resist using AI to make HR decisions.
+The tactical shift: Stop talking about how AI will change the world. Start talking about your governance frameworks. Use explanatory channels like LinkedIn and technical whitepapers to detail your data protection and ethical guardrails. For this high-acumen group, process transparency is the most durable currency.
+CONSUMER BRANDS: SHIFT FROM FEATURES TO FEELINGS
+If your primary audience is the general population, take note. When they hear companies talking about AI, they don’t hear innovation; they hear a loss of control over their privacy, their jobs, and their information. While tech insiders see a tool, the general public sees a threat.
+The fear factor: Nearly half (47%) of the general population views AI as leading to a more dangerous future. This skepticism is rooted in a perceived lack of accountability.
+The trust floor: Only 28% of the general public trusts AI companies and startups, compared to 58% of knowledge workers.
+What restores control: Trust isn’t built by a visionary CEO; it’s built on safety. More than half (66%) of the general population say protecting customer data is the top driver of trust, followed closely by admitting mistakes and outlining corrective steps (66%).
+The tactical shift: Use AI to solve consumer pain points, but don’t lead with the AI label. Your strategy should be AI-powered and human-led. For the general public, especially women and Gen Z, trust increases when they see a brand responding to concerns rather than just broadcasting features.
+Meet skeptics where they are. Use YouTube and /Reels to demonstrate accountability and human impact. Show the people behind the machine and emphasize the guardrails you’ve put in place to protect the user.
+RESPECT THE TRANSPARENCY TAX
+Regardless of acumen, there is one area where the divide disappears: the penalty for deception. Most (73%) of the general public and 67% of knowledge workers will penalize a brand for undisclosed AI messaging.
+In a divided landscape, disclosure is the great equalizer. Whether you are selling enterprise software or laundry detergent, if a machine helps write the message, the human must sign off on it and tell the audience.
+We are entering an age where Silicon Valley is rewriting business as usual, but trust is still defined by the human heart. The acumen gap will eventually close as the technology matures, but the scars left by deceptive or tone-deaf communication will linger. By choosing to lead with empathy for the skeptic and governance for the insider, you’re defining the new rules of trust for the AI era. The divide is real, but for the leaders willing to show their work, it is far from insurmountable.
+Tyler Perry is the co-CEO of Mission North.
+
+Classification
+
+
+Language: ENGLISH
+
+Publication-Type: Web Publication
+
+Subject:  DIGITAL DIVIDE (90%);  BABY BOOMERS (89%);  TECHNOLOGY (89%);  CONSUMER PRODUCTS (89%);  ETHICS (78%);  GENERATIVE AI (78%);  INNOVATION (78%);  B2B ELECTRONIC COMMERCE (78%);  FUTURE OF WORK (78%);  BIG TECH (78%);  WORKPLACE TRENDS (77%);  EMOTIONS (72%);  INFORMATION SECURITY & PRIVACY (66%);  DATA SECURITY (61%); FUTURE OF WORK (78%); ETHICS (78%); WORKPLACE TRENDS (77%); TECHNOLOGY (89%); B2B ELECTRONIC COMMERCE (89%); GENERATIVE AI (78%); BABY BOOMERS (90%); INNOVATION (89%); EMOTIONS (72%); DIGITAL DIVIDE (90%); Fast Company Impact Council (%)
+
+Industry: BIG TECH (78%); CONSUMER PRODUCTS (89%); B2B ELECTRONIC COMMERCE (89%); GENERATIVE AI (78%); DATA SECURITY (61%); INFORMATION SECURITY & PRIVACY (66%)
+
+Load-Date: May 14, 2026
+
+
+End of Document

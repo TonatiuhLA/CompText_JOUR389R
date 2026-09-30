@@ -1,0 +1,89 @@
+
+
+
+News Bites - Private Companies
+July 6, 2026 Monday
+
+
+Copyright 2026 Jupiter International (Australia) Pty Ltd. All Rights Reserved
+
+
+Section: STOCK
+Length: 1674 words
+Body
+
+
+DASHBOARD: WNDRCO 
+*| PermID | 5053437072 | 
+*| Website | / | 
+*| Industry | Holding Company - Investments | 
+ACTIVITIES:
+WndrCo, founded in 2017 by entrepreneur Jeffrey Katzenberg and former Disney executive David Ellison, is a Los Angeles-based holding company dedicated to acquiring control stakes in underappreciated technology firms and investing in innovative startups to accelerate their growth into market leaders. Its core business activities encompass strategic investments, operational enhancements, and scaling support across consumer and enterprise technology sectors, with a focus on lead institutional funding in post-product-market-fit rounds and seed-stage opportunities for next-generation entrepreneurs. Notable portfolio companies include Aura, offering comprehensive identity and financial protection services; Writer, an enterprise AI writing assistant; and Yassir, a leading ride-hailing and delivery platform in the Middle East and Africa. Among its fastest-growing segments, online security solutions-exemplified by Aura and Point Wild''s portfolio of protective brands-stand out for surging demand amid rising cyber threats, while enterprise AI tools like Writer are rapidly expanding, capitalizing on the global shift toward generative technologies and automation. Through these initiatives, WndrCo drives transformative value, fostering innovation and market dominance in high-potential domains.
++   WNDRCO [2 News That Matters]
++   LATAM MICRODRAMA STARTUP IDILIO RAISES $5.5 MILLION SEED WITH WNDRCO INVESTMENT
+WndrCo backed a seed round worth 5.5 million for Idilio, a platform focused on microdrama for Latin America, with the news released on 4th June 2026. The investment highlights a trend toward technology enabled storytelling in regional markets. Idilio leverages an AI engine to streamline production while preserving cultural relevance. 
+Idilio was founded by Gabriela Tafur and Esteban Ramirez, combining the appeal of telenovelas with the fast pace of vertical video to reach mobile audiences across the region. 
+Within five months of launch, Idilio reports 1.5 million downloads across 93 countries and 40 million episodes streamed. Average daily viewing runs around 50 minutes, signaling strong engagement in a market where localized content matters. 
+The company also introduced Idilio Creators, a program that allows creators to monetize content directly on the platform, with profits fully returned to creators. Investors in the round include a16z Speedrun, Goodwater Capital, Precursor Ventures, and David Velez, alongside WndrCo.
++   NETOMI SECURES $110 MILLION ROUND AS ACCENTURE VENTURES, OTHERS BACK AI-POWERED CUSTOMER EXPERIENCE PLATFORM
+San Francisco-based Netomi announced a $110 million funding round led by Accenture Ventures, with support from Adobe Ventures, WndrCo, SLW, NAVER Ventures, Metis Strategy and Fin Capital. The company disclosed the round on 6th May 2026, signaling growing investor interest in AI-powered customer experience platforms.\n\nNetomi’s platform is designed for production-scale agentic CX across chat, email and voice, and it already serves major clients including Delta Air Lines, United Airlines, MetLife and Paramount, with deployments such as the United Airlines mobile app integration.\n\nThe round includes a new global alliance with Accenture Song to help enterprises deploy Netomi’s technology with greater empathy and consistency. Ndidi Oteh, CEO of Accenture Song, said, \"Netomi's platform strengthens the connection between people and the brands they trust.\"\n\nOpenAI’s case study cited by Netomi underlines its track record of deploying agentic systems at scale without failures or regulatory breaches, reinforcing confidence in AI-enabled CX. The funding aligns with a broader shift toward reliable AI that navigates customer journeys more smoothly and reduces friction.
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++   GENERAL CATALYST [3 News That Matters]
++   STRATEGIC PRIVATIZATION OF JANUS HENDERSON: TRIAN, GENERAL CATALYST AND QIA BACK THE MOVE
+Janus Henderson Group Ltd. has completed its take-private transaction with Trian Fund Management, General Catalyst Group Management, and the Qatar Investment Authority. The deal, finalized on the 30th of June, 2026, converts public shares into cash at $52.00 and removes the company from the NYSE.
+The move shifts Janus Henderson toward a longer-term ownership model, directing capital to client-centric investments in investment platforms, technology, and talent development. CEO Ali Dibadj will continue to lead the business from its London and Denver offices.
+The privatization is supported by a group of global investors including MassMutual and Sun Hung Kai & Co., with financial and legal advisers guiding the process. The company’s leadership says private ownership will strengthen its competitive position in asset management.
++   OMLI RAISES $1.5 MILLION SEED TO BUILD AI FOR KIDS' SPEECH AND LANGUAGE
+Gurugram startup Omli has announced a $1.5 million seed round led by India Quotient with participation from General Catalyst, disclosed on June 17, 2026.
+Omli focuses on building AI infrastructure for children's speech and language development, addressing a gap where most commercial speech models are trained on adult voices.
+Its OmliKids app lets kids aged three to ten talk with an AI companion named Doro, aiming to be a conversational platform that helps improve speaking skills and logical thinking; the app has attracted more than 500,000 downloads on Google Play in a few months.
+To tackle the limitations of existing models, Omli developed VedAnsh-v1, a child-specific speech-to-text and voice activity detection system that showed improvements in word error rates when tested with children's speech. With about 15 employees, Omli plans to roll out the next generation of the model and explore real-time conversational intelligence and early articulation screening tools.
++   AI-DRIVEN ACCESSIBILITY STARTUP RYLO RAISES $85M GROWTH ROUND BACKED BY GENERAL CATALYST AND PARTNERS
+Rylo has secured $85 million in growth funding in a round led by General Catalyst's Customer Value Fund, with participation from Canaan, Vertex Ventures, and Contour. This investment lifts total funding to beyond $100 million and underscores investor confidence in AI-driven accessibility technology.
+The company, headquartered in Tel Aviv and New York, builds an AI-powered platform that improves accessibility for Deaf and hard-of-hearing users. Its tools include real-time captioning for phone calls, instant speech-to-text, text-to-speech, and in-person transcription, designed to support everyday communication across home, work, and public settings.
+Rylo has grown its ecosystem through innovation and strategic moves, most notably the 2025 acquisition of Sign.mt and the launch of Rylo Sign, which enables real-time translation between spoken and sign languages. Additional AI features such as speaker recognition, sentiment analysis, and fraud detection enhance performance across channels.
+The investment signals a positive outlook for the accessibility technology sector as demand increases with broader digital communication and evolving regulations. The capital will fund hiring in engineering, product, and commercial teams, plus AI research and infrastructure, with a long-term plan for global expansion and broader adoption by individuals and organizations.
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++   ANDREESSEN HOROWITZ [3 News That Matters]
++   SWITCH EYES $2B ROUND WITH A16Z AS LEAD INVESTOR
+Switch is pursuing a private round near $2B with Andreessen Horowitz leading, announced on 3 July 2026. Valuation and product specifics remain undisclosed, but the backing by A16Z signals confidence in Switch's long-term strategy. 
+A16Z's recent activity includes co-leading a $2B round for Cursor, an AI coding startup from Anysphere, with Nvidia and Thrive Capital; Cursor's valuation has surpassed $50B. The firm also backed Thinking Machines Lab in a record-setting $2B seed. 
+If Switch completes the fundraising, it would mark at least the third time A16Z anchors a round around $2B, a pattern that industry watchers say reflects a broader shift toward mega-deals in the venture-capital landscape. 
+Observers will monitor how Switch deploys the funds and what it means for its product roadmap and growth.
++   PILLAR RAISES $20 MILLION SEED ROUND WITH A16Z AT THE HELM, AIMING TO MODERNIZE RISK MANAGEMENT
+Pillar has raised $20 million in a seed round led by Andreessen Horowitz, with participation from Dara Khosrowshahi and other investors.
+The round underscores investor confidence in Pillar’s mission to simplify financial risk management as firms contend with volatility, currency risk, and evolving regulations.
+Pillar aims to move teams away from spreadsheet- and legacy-based workflows toward an integrated platform for treasury oversight, hedging, and regulatory compliance as companies expand globally.
+The funds will fuel product development and drive early customer adoption as Pillar positions itself in a space viewed as essential to modern enterprise operations.
++   ANDREESSEN HOROWITZ BACKS PROSPER AI, FUELING GROWTH IN HEALTHCARE ADMINISTRATIVE AUTOMATION
+Prosper AI has raised $30 million in a Series A led by Andreessen Horowitz to scale its end-to-end patient-management platform.
+The company reports revenue growth of five times and that its platform now manages more than $1.3 billion in patient care as of 30th June 2026.
+Prosper AI automates scheduling, insurance verification, patient billing and payer communications to reduce administrative costs by over 40% and streamline the patient journey from appointment requests to reimbursement.
+Client names include Athenahealth and Jackson Memorial Hospital; the new funds will expand engineering, boost customer engagement and deepen EHR integrations.
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Created by 
+Classification
+
+
+Language: English
+
+Document-Type: Analyst Comment/Recommendation; Share Price Movement/Disruptions
+
+Publication-Type: Newswire
+
+Subject:  HOLDING COMPANIES (91%);  TECHNOLOGY (90%);  ENTREPRENEURSHIP (90%);  BUSINESS REPORTS & FORECASTS (90%);  INFORMATION TECHNOLOGY INDUSTRY (90%);  INNOVATION (90%);  FINANCIAL MARKET UPDATES (90%);  FINANCING ROUNDS (89%);  CUSTOMER RELATIONS (89%);  CUSTOMER EXPERIENCE (89%);  ARTIFICIAL INTELLIGENCE (88%);  BUSINESS NEWS (78%);  COMPANY ACTIVITIES & MANAGEMENT (78%);  VENTURE CAPITAL (78%);  TRENDS (76%);  WRITERS (74%);  CYBERSECURITY (74%);  FORTUNE 500 COMPANIES (73%);  NEGATIVE TECHNOLOGY NEWS (73%);  ONLINE SECURITY & PRIVACY (73%);  CYBERCRIME (73%);  TRAVEL APPS (67%);  MOBILE APPLICATIONS (67%); CUSTOMER RELATIONS (89%); HOLDING COMPANIES (90%); TECHNOLOGY (94%); BUSINESS REPORTS & FORECASTS (90%); INNOVATION (90%); TRAVEL APPS (68%); FINANCING ROUNDS (89%); FINANCIAL MARKET UPDATES (90%); NEGATIVE TECHNOLOGY NEWS (72%); COMPANY ACTIVITIES & MANAGEMENT (78%); VENTURE CAPITAL (78%); CUSTOMER EXPERIENCE (89%); WRITERS (75%); CYBERCRIME (69%); ARTIFICIAL INTELLIGENCE (89%); TRAVEL TECHNOLOGY (77%); FORTUNE 500 COMPANIES (73%); BUSINESS NEWS (78%); TRENDS (77%); ENTREPRENEURSHIP (90%)
+
+Company:  ACCENTURE PLC (58%);  UNITED AIR LINES INC (50%);  DELTA AIR LINES INC (50%); WndrCo
+
+Ticker: ACN (NYSE) (58%); DAL (NYSE) (50%); WNDRCO
+
+Industry: NAICS541611 ADMINISTRATIVE MANAGEMENT & GENERAL MANAGEMENT CONSULTING SERVICES (58%); SIC8742 MANAGEMENT CONSULTING SERVICES (58%); SIC4512 AIR TRANSPORTATION, SCHEDULED (50%); ONLINE SECURITY & PRIVACY (69%); TRAVEL APPS (68%); MOBILE APPLICATIONS (68%); FINANCIAL MARKET UPDATES (90%); VENTURE CAPITAL (78%); CYBERSECURITY (75%); WRITERS (75%); CYBERCRIME (69%); ARTIFICIAL INTELLIGENCE (89%); TRAVEL TECHNOLOGY (77%); INFORMATION TECHNOLOGY INDUSTRY (90%); 523910 (%)
+
+Person:  JEFFREY KATZENBERG (73%); JEFFREY KATZENBERG (73%)
+
+Geographic:  LOS ANGELES, CA, USA (92%); LOS ANGELES, CA, USA (92%);  CALIFORNIA, USA (93%); CALIFORNIA, USA (93%);  UNITED STATES (93%);  LATIN AMERICA (79%);  MIDDLE EAST (79%); LATIN AMERICA (79%); MIDDLE EAST (79%); United States; United States
+
+Load-Date: July 7, 2026
+
+
+End of Document

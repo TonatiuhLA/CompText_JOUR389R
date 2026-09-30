@@ -1,0 +1,48 @@
+
+
+
+ 
+Engineering Daily News
+May 22, 2025 Thursday
+
+
+Copyright 2025 NewsRx, LLC All Rights Reserved
+
+
+Section: ENGINEERING
+Length: 641 words
+Body
+
+
+2025 MAY 22 (NewsRx) -- By a News Reporter-Staff News Editor at Engineering Daily News -- Investigators publish new report on engineering. According to news originating from Monaca, Pennsylvania, by NewsRx correspondents, research stated, "People with Disability (PwD) are some of society's marginalized and vulnerable groups. They are mostly disadvantaged because accessibility to communal structures and social services remains challenging." 
+ Financial supporters for this research include Penn State Beaver Academic Affairs; University of Saskatchewan Through The Natural Sciences And Engineering Research Council of Canada. 
+ The news editors obtained a quote from the research from Pennsylvania State University (Penn State): "Sometimes, PwDs are misunderstood because not all disabilities are visible or outward, which makes it difficult to implement useful interventions for them. Thus, the voices of PwDs, as expressed freely on social media, must be studied to better understand the fundamental challenges they face. In this research, we analyze the comments expressed in Disability communities on Reddit in the last 5 years (from 2019 to 2024) to uncover the concerns and sentiments of PwDs. Comments were collected through the Reddit API from 4 Disability subreddits, namely r/ADHD, r/Blind, r/deaf, and r/disability. Overall, a total of 601,215 comments were extracted for analysis. We applied topic modeling algorithms, namely Latent Dirichlet Allocation (LDA), Non-negative Matrix Factorization (NMF), and two variations of BERTopic (BERTopic with K-means clustering and BERTopic with HDBSCAN clustering) on each subreddit's comments to extract hidden topics. The NMF discovered 15 topics in the r/Blind and 20 topics in the r/deaf. Furthermore, related topics were merged into themes, and we discovered nine themes in both r/ADHD and r/Blind, eight themes in r/deaf, and seven themes in r/disability. Additionally, a pre-trained transformer, SiEBERT, was used to determine the sentiments for the themes in each subreddit. The themes discovered across at least two subreddits are Mobility, Diagnosis, Education, Assistive and Accessible Technology, Support, Disability Accommodations, and Relations. PwD with ADHD struggle with the effects of medications, household chores, sleep, attention span, and oversubscribing to online payment services. The PwD, who are visually impaired, feel alienated by society, struggle with public transit systems, have limited employment, and experience harassment." 
+ According to the news editors, the research concluded: "Those with difficulty hearing express trouble with hearing devices, educational materials, technological challenges, limited workplace accommodations, and bad treatment from people. Our research discussed the themes and provided recommendations where applicable." 
+ For more information on this research see: Voices of People With Disabilities: Integrating Topic Modeling and Sentiment Analysis to Study Disability Discourse on Social Media. IEEE Access, 2025,13():81569-81605. (IEEE Access - http://ieeexplore.ieee.org/servlet/opac?punumber=6287639). The publisher for IEEE Access is IEEE. 
+ A free version of this journal article is available at https://doi.org/10.1109/ACCESS.2025.3566014. 
+ Our news journalists report that additional information may be obtained by contacting Richard K. Lomotey, Information Sciences and Technology, Pennsylvania State University (Penn State) Beaver, Monaca, PA, United States. Additional authors for this research include Sandra Kumi, Christian Nyaku, Ralph Deters. 
+ Keywords for this news article include: Pennsylvania State University (Penn State), Monaca, Pennsylvania, United States, North and Central America, Engineering. 
+ Our reports deliver fact-based news of research and discoveries from around the world. Copyright 2025, NewsRx LLC 
+Classification
+
+
+Language: ENGLISH
+
+Document-Type: Expanded Reporting
+
+Publication-Type: Newsletter
+
+Subject: PAYMENT TECHNOLOGY (76%); NEGATIVE NEWS (78%); ASSOCIATIONS & ORGANIZATIONS (76%); ENGINEERING (90%); COLLEGES & UNIVERSITIES (90%); TECHNOLOGY (89%); ACCESS TO EDUCATION (76%); ACCESSIBLE WORKPLACE (77%); FINANCIAL MARKET UPDATES (90%); DISABILITY ACCOMMODATIONS (89%); DISABLED WORKERS (89%); NATURAL SCIENCES (72%); PROSTHETIC & ASSISTIVE DEVICES (77%); DEAFNESS (77%); SOCIAL MEDIA (90%); ATTENTION DEFICIT DISORDER (89%); TEACHING MATERIALS & MEDIA (60%); INTERNET SOCIAL NETWORKING (88%); VISION IMPAIRMENTS (72%); BLINDNESS (89%); INVESTIGATIONS (91%); EXPERIMENTATION & RESEARCH (92%); DISABLED PERSONS (89%); Engineering (%)
+
+Company:  MOLINOS NACIONALES CA (MONACA) (58%)
+
+Organization: PENN STATE UNIVERSITY (94%)
+
+Industry: SIC2046 WET CORN MILLING (58%); PAYMENT TECHNOLOGY (76%); PUBLIC TRANSPORTATION (61%); ENGINEERING (90%); COLLEGES & UNIVERSITIES (90%); FINANCIAL MARKET UPDATES (90%); PROSTHETIC & ASSISTIVE DEVICES (77%); SOCIAL MEDIA (90%); INTERNET SOCIAL NETWORKING (88%)
+
+Geographic: PENNSYLVANIA, USA (99%); SASKATCHEWAN, CANADA (57%); CANADA (79%)
+
+Load-Date: September 1, 2025
+
+
+End of Document

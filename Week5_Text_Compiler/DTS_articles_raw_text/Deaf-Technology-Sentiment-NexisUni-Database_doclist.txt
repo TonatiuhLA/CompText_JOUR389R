@@ -1,0 +1,43 @@
+
+User Name: = 
+Date and Time: = 2026-09-14
+Job Number: = 295707115
+
+Documents (10)
+Client/Matter: -None-
+Search Terms: Deaf AND Technology AND Sentiment
+Search Type: Boolean
+*| Content Type | Narrowed by | 
+*| news | -None- | 
+
+1. 
+ANNOUNCEMENTS	
+
+2. 
+ANNOUNCEMENTS	
+
+3. 
+States News Service
+
+4. 
+ANNOUNCEMENTS	
+
+5. 
+ANNOUNCEMENTS	
+
+6. 
+OPINION	Paul Kedrosky
+
+7. 
+ANNOUNCEMENTS	
+
+8. 
+ANNOUNCEMENTS	
+
+9. 
+STOCK	
+
+10. 
+OPINION	Paul Kedrosky
+
+

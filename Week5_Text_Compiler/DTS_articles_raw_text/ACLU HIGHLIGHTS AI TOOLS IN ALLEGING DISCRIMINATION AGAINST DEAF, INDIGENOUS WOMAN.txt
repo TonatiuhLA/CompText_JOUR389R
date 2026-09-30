@@ -1,0 +1,50 @@
+
+
+
+Inside AI Policy
+March 25, 2025
+
+
+Copyright 2025 Inside Washington Publishers All Rights Reserved
+Length: 758 words
+Body
+
+
+ Posted March 25, 2025
+The American Civil Liberties Union is asserting financial software giant Intuit, and its human resources software vendor HireVue, violated the Colorado Anti-Discrimination Act, the Americans with Disabilities Act and title VII of the Civil Rights Act in a complaint to the Colorado Civil Rights Division and the Equal Employment Opportunity Commission.
+The development comes as the Trump administration has deprioritized examining AI for bias and discrimination, but as multiple states consider legislation to avoid such instances by increasing transparency between developers and deployers of AI.
+The complaint, which ACLU shared in a March 19 press release was filed on behalf of D.K., an indigenous and deaf woman who the group says Intuit denied a promotion despite positive customer reviews after she was forced to complete a HireVue assessment which did not make reasonable accommodations such as human-generated captioning.
+"Instead, she had to use automated captioning provided by Google Chrome," the complaint reads. "That captioning was less accurate than if HireVue had provided subtitles. The Google Chrome software merely transcribed D.K.'s computer audio and therefore contained more mistakes, particularly when the interviewer used complicated words. Because of the lack of proper captioning, it was harder for D.K. to know exactly what the interviewer was saying."
+In addition, the complaint describes two other ways in which HireVue's use of AI discriminated against D.K.
+First, on the input side, the group noted that she relies primarily on American Sign Language and speaks with Deaf and Indigenous accents.
+"Several popular [Automated Speech Recognition] systems perform significantly worse at transcribing the speech of speakers with accents, speech disabilities, and/or other disabilities, and can be largely dysfunctional when processing deaf and hard of hearing speech," the complaint reads.
+On the output side, the ACLU and its filing coalition said, "use of another AI system to understand assessment-takers' responses based on these [ASR produced] transcripts compounds this risk of discrimination."
+"Independent research has also shown that versions of the AI model HireVue uses and customizes to attempt to evaluate the meaning of candidates' responses can produce outputs that exhibit implicit and explicit racial bias and biases towards people with disabilities or about disabilities," the group wrote linking to a 2023 study by researchers at the University of Washington.
+"When prompts include stigmatized conditions, the probability of [Masked Language Models] predicting negative words is, on average, 20 percent higher than when prompts have non-stigmatized conditions," that paper notes. "Bias against stigmatized groups is also reflected in four downstream sentiment classifiers of these models. When sentences include stigmatized conditions related to diseases, disability, education, and mental illness, they are more likely to be classified as negative."
+The complaint alleges "HireVue aided and abetted Intuit's discriminatory conduct by providing Intuit with its platform despite its knowledge that its technology discriminates against deaf and hard of hearing and/or non-white applicants."
+"My experience reflects the systemic discrimination built into AI-driven hiring tools that continue to exclude and disadvantage marginalized communities. Deaf individuals, Indigenous professionals, and countless others should not have to fight for fair treatment in the workplace, especially in an era where technology is shaping hiring decisions," D.K. said in the release. "Companies like Intuit and HireVue must be held accountable for deploying flawed and exclusionary technology that creates artificial barriers for qualified candidates."
+The complaint also notes that Intuit itself used problematic ASR technology during the regular course of D.K.'s work, incorrectly assessing that she was not following required scripts because it couldn't detect her accent, for example.
+"Companies cannot hide behind artificial intelligence to avoid responsibility for discrimination," said Andrew Rozynski and Sheryl Eisenberg Michalowski, co-directors of the Eisenberg & Baum Law Center for Deaf and Hard of Hearing -- which joined ACLU in filing the complaint. "Eisenberg & Baum is dedicated to challenging technologies that systematically marginalize Deaf, disabled, and Indigenous individuals. We will continue fighting to ensure AI-based hiring tools meet the highest standards of fairness and inclusivity."  
+Classification
+
+
+Language: ENGLISH
+
+Publication-Type: Newsletter
+
+Subject: DISCRIMINATION (92%); BUSINESS SOFTWARE (91%); ARTIFICIAL INTELLIGENCE REGULATION & POLICY (90%); CIVIL RIGHTS (90%); DISABILITY DISCRIMINATION (90%); DISCRIMINATION LAW (90%); ELECTRONIC HUMAN RESOURCES (90%); EMPLOYMENT DISCRIMINATION (90%); HUMAN RESOURCES (90%); HUMAN RESOURCES & PERSONNEL MANAGEMENT (90%); HUMAN RIGHTS & CIVIL LIBERTIES LAW (90%); INDIGENOUS SOCIETAL ISSUES (90%); LABOR & EMPLOYMENT LAW (90%); NATIONAL ORIGIN DISCRIMINATION (90%); NEGATIVE SOCIETAL NEWS (90%); PRESS RELEASES (90%); US AMERICANS WITH DISABILITIES ACT (90%); ARTIFICIAL INTELLIGENCE (89%); DEAFNESS (89%); DISABLED PERSONS (89%); ACCESSIBLE WORKPLACE (78%); DISABILITY ACCOMMODATIONS (78%); DISABLED ACCESS (78%); GENDER & SEX DISCRIMINATION (78%); HUMAN RIGHTS ORGANIZATIONS (78%); LITIGATION (78%); SUITS & CLAIMS (78%); TECHNOLOGY (78%); VOICE RECOGNITION (78%); RACE & ETHNICITY (77%); TRANSCRIPTS (75%); LEGISLATION (72%); MENTAL ILLNESS (72%); UNCONSCIOUS BIAS (72%); RESEARCH REPORTS (71%)
+
+Company:  GOOGLE LLC (58%);  INTUIT INC (58%);  AI SYSTEMS (53%)
+
+Organization: AMERICAN CIVIL LIBERTIES UNION (92%); US EQUAL EMPLOYMENT OPPORTUNITY COMMISSION (58%)
+
+Ticker: INTU (NASDAQ) (58%)
+
+Industry: NAICS519290 WEB SEARCH PORTALS AND ALL OTHER INFORMATION SERVICES (58%); NAICS334610 MANUFACTURING AND REPRODUCING MAGNETIC AND OPTICAL MEDIA (58%); NAICS513210 SOFTWARE PUBLISHERS (58%); NAICS541611 ADMINISTRATIVE MANAGEMENT & GENERAL MANAGEMENT CONSULTING SERVICES (58%); SIC7372 PREPACKAGED SOFTWARE (53%); BUSINESS SOFTWARE (91%); COMPUTER SOFTWARE (91%); ARTIFICIAL INTELLIGENCE REGULATION & POLICY (90%); ELECTRONIC HUMAN RESOURCES (90%); SOFTWARE MAKERS (90%); ARTIFICIAL INTELLIGENCE (89%); CAPTIONING SERVICES (78%); DISABLED ACCESS (78%); PATTERN RECOGNITION (78%); VOICE RECOGNITION (78%)
+
+Geographic: UNITED STATES (94%)
+
+Load-Date: March 26, 2025
+
+
+End of Document

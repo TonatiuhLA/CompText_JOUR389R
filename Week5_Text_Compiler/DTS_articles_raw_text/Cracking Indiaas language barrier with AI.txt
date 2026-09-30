@@ -1,0 +1,71 @@
+
+
+
+PC Quest
+March 18, 2026
+
+
+Copyright 2026 PC Quest, distributed by Contify.com All Rights Reserved
+
+
+Length: 1267 words
+Byline: Ashok Pandey
+Body
+
+
+India's digital growth has never been limited by ambition or infrastructure. The real constraint has always been communication. When technology speaks only one language, vast sections of the population remain excluded, no matter how advanced the platform. This challenge sits at the heart of India's digital transformation journey.
+In a detailed conversation with Nakul Kundra, Co-founder of Devnagri AI, a clear picture emerges of how language, context, and technology intersect, and why solving for Indian languages requires far more than basic translation.
+From services to a product-led problem
+The journey began not with artificial intelligence, but with years of building technology for others. A services-led business, started in 2009, focused on developing solutions and products for external clients. Over time, a realization set in: while many products were being built, none truly belonged to the builders themselves.
+The search for a meaningful product naturally turned toward India's scale. With a population running into hundreds of crores, the question was not about building another app but about identifying a structural gap that affected both citizens and businesses. Language emerged as that gap.
+Despite India's linguistic diversity, most digital platforms catered to a limited set of regional languages, often without depth or context. Research highlighted a stark reality: only a small fraction of Indians could comfortably read or understand English. The rest of the population operated almost entirely in local languages, creating a massive disconnect between digital systems and their intended users.
+This gap was large, underserved, and largely uncontested when the idea for Devnagri AI began to take shape.
+Why translation alone was not enough
+Early exploration revealed that existing translation tools, while technically functional, lacked contextual understanding. APIs from global providers could convert text from one language to another, but the output often felt mechanical, tone-deaf, and unsuitable for real-world business communication.
+For enterprises trying to scale, especially in regulated or customer-facing environments, this was not acceptable. A translated sentence that loses tone or intent can dilute trust, confuse users, or even lead to compliance issues.
+The ambition, therefore, shifted toward building contextual machine translation that could serve businesses at scale. The challenge was foundational: Indian language data was scarce, fragmented, and inconsistent. To bridge this gap, large volumes of available corpus were collected, curated, and supplemented with newly created content designed specifically to train contextual models.
+This effort laid the groundwork for a machine translation engine focused on Indian languages, initially centered on text-to-text use cases.
+From generic models to domain intelligence
+As customer adoption increased, another limitation surfaced. Language is not just contextual; it is domain-specific. A sentence translated correctly for a media platform may sound completely wrong in banking or government communication.
+This insight led to the development of domain-trained models. Regulated sectors such as banking, financial services, insurance, and government workflows became early focus areas. Each industry carried its own tone, terminology, and communication standards.
+Machine translation models were adapted to reflect these nuances. Application layers were built on top of the core engine, enabling document translation, website localization, and mobile application workflows that preserved intent and compliance.
+At this stage, language technology moved from being a utility to becoming an integral part of enterprise digital transformation.
+Customer-centric language and the rise of LLMs
+The arrival of large language models introduced a new dimension. While industry-level tone could be addressed, enterprises still needed personalization. Even within the same sector, different organizations communicate differently.
+A bank's customer messaging, for example, carries a distinct voice shaped by brand, policy, and audience expectations. Generic industry models were no longer sufficient.
+Open-source large language models were adopted and fine-tuned using proprietary multilingual datasets built over several years. These datasets, spanning hundreds of millions of sentences, enabled systems to understand not just language, but customer-specific tone and intent.
+This shift marked the transition from domain-centric to customer-centric language intelligence. The technology began solving workflow-level problems rather than just translation tasks.
+Beyond text: voice, conversation, and intent
+Language does not exist only on screens. As digital services expanded, voice became unavoidable. The platform evolved from text-to-text translation into voice-to-voice capabilities, including conversational bots and chat-based interfaces.
+These systems were designed to handle real interactions, interruptions, and emotional cues. Sentiment analysis in Indian languages became a critical capability, allowing enterprises to understand whether a customer was frustrated, neutral, or satisfied during an interaction.
+This intelligence enabled real-time decision-making. Calls could be flagged based on emotional trajectory, intent could be summarized automatically, and workflows could be triggered without human intervention.
+The result was not automation for its own sake, but more humanized digital interactions at scale.
+Accuracy, preference, and the limits of automation
+Accuracy in language systems remains a nuanced topic. Grammatically correct and contextually sound translations across major Indian languages consistently reach high accuracy levels. However, language is also subjective.
+Organizations often prefer certain phrasings over others, even when both are technically correct. These preferences vary by brand, region, and audience. Addressing them requires customization rather than algorithmic correction.
+This distinction highlights an important reality: machine-driven translation can deliver quality and context, but preference-driven refinements remain a collaborative process between technology and the customer.
+Real-world workflows and measurable impact
+The practical value of this approach becomes most visible in complex workflows. In high-volume environments such as insurance claim settlements, a significant portion of inbound communication may be fraudulent or irrelevant.
+Conversational AI systems integrated with backend workflows can filter intent, identify anomalies, and route only meaningful cases for human intervention. At the same time, multilingual websites, mobile applications, and dashboards ensure that users can engage comfortably in their preferred language.
+These capabilities are not isolated experiments. They are actively used across banking, financial services, government platforms, and research institutions, forming part of core operational stacks.
+Language as digital infrastructure
+India's digital future depends not just on faster networks or smarter algorithms but on inclusivity at scale. Language is no longer a user interface problem; it is foundational infrastructure.
+By moving beyond literal translation toward contextual, domain-aware, and customer-centric language intelligence, AI systems can bridge the gap between technology and people. When platforms understand how users speak, feel, and express intent, digital services stop feeling foreign.
+In that shift lies the real promise of AI for India-not replacing human interaction, but finally speaking the language of its users.
+Classification
+
+
+Language: ENGLISH
+
+Publication-Type: Magazine
+
+Subject:  LANGUAGE & LANGUAGES (91%);  ARTIFICIAL INTELLIGENCE (90%);  TRANSLATORS & INTERPRETERS (90%);  TECHNOLOGY (89%);  BANKING & FINANCE (89%);  MACHINE TRANSLATION (89%);  DIGITALIZATION & DIGITAL TRANSFORMATION (78%);  LINGUISTICS (78%);  APPLICATION PROGRAMMING INTERFACES (77%);  PRODUCT DEVELOPMENT (75%);  BANKING  LENDING & CREDIT SERVICES (75%); PRODUCT DEVELOPMENT (75%); TECHNOLOGY (89%); MACHINE TRANSLATION (89%); LANGUAGE & LANGUAGES (96%); ARTIFICIAL INTELLIGENCE (90%); LINGUISTICS (78%)
+
+Industry: TRANSLATORS & INTERPRETERS (90%); BANKING & FINANCE (89%); APPLICATION PROGRAMMING INTERFACES (77%); ARTIFICIAL INTELLIGENCE (90%); DIGITALIZATION & DIGITAL TRANSFORMATION (78%); BANKING, LENDING & CREDIT SERVICES (75%)
+
+Geographic:  INDIA (94%); INDIA (99%)
+
+Load-Date: March 19, 2026
+
+
+End of Document

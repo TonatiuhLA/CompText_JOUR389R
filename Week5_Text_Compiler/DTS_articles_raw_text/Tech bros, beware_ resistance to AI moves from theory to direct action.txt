@@ -1,0 +1,53 @@
+
+
+
+The Observer - London (Print)
+April 19, 2026
+Edition 1, National Edition
+
+
+Copyright © 2026 Tortoise Media All Rights Reserved
+
+
+Section: THE NEW REVIEW;FEATURES; Pg. 19
+Length: 790 words
+Byline: John Naughton
+Body
+
+
+On the morning of 10 April, a guy threw a molotov cocktail at the exterior gate of the mansion of OpenAI boss Sam Altman in San Francisco. Two days later, two people tried a spot of drive-by shooting at the house. Also this month, an Indianapolis city councillor was woken by 13 gunshots and found a note on his doorstep saying: "No data centers". It turns out that, days before the latter shooting, the councillor attended a metropolitan development commission meeting to advocate for the rezoning of a property where the developer Metrobloks was seeking to build a datacentre.
+Meanwhile, Maine is poised to become the first US state to pass a temporary ban on datacentre construction. It's just the first of at least 11 more states - Georgia, Maryland, Michigan, New Hampshire, New York, Oklahoma, South Carolina, South Dakota, Vermont, Virginia and Wisconsin - that have proposed to restrict or ban datacentre development.
+What we're seeing are the first stirrings of anti-AI populism, a volatile movement driven by economic desperation and a distrust of tech elites. In that context, the attacks on Altman's home and a councillor who advocated for a datacentre look like early signals of a seismic shift from critique to direct action.
+Even as they beef up their personal security, the tech bros are baffled and hurt by this development. But, really, they only have themselves to blame. From the outset in 2022, their messaging about the technology has been infantile. Vermont senator Bernie Sanders has recently made a bravura video skewering it. The AI revolution is being pushed by some of the wealthiest people ever, he points out, and they have spent their time frightening the life out of us.
+Some choice examples cited by Sanders: Elon Musk saying "AI will replace all jobs" and that "working will be optional"; Anthropic's Dario Amodei thinking that "[AI] could displace half of all entry-level white-collar jobs in the next one to five years"; Demis Hassabis of Google DeepMind burbling about how the AI revolution will be "10 times bigger than the Industrial Revolution and 10 times faster"; Bill Gates telling us that, within the next decade, humans won't be needed "for most things", such as manufacturing products, delivering packages or growing food. And so on, ad infinitum.
+If you wanted a case study in how not to win friends and influence people, this tone-deaf messaging would be hard to beat. Especially when it's being delivered to an audience that is increasingly disenchanted with a tech industry that seems relaxed about profiting from creating addictive products that destroy young lives.
+And, interestingly, it is young people who are increasingly most alienated by the industry. The Harvard Kennedy School's annual youth poll in November 2025 revealed that, by more than a 3-1 margin, young Americans believe AI will take away opportunities; 44% say it will reduce them, against only 14% who expect gains. And Gallup's longitudinal tracking of gen Z views shows that demographic's views on the technology steadily darkening. Sentiment towards AI has become more negative on three of the four emotions measured. "Excitement" has dropped 14 percentage points to just 22%, "hopefulness" has fallen 9 points to 18% and "anger" has increased 9 points to 31%.
+Note that last number. As Jasmine Sun, who is one of the sharpest observers of the tech industry, puts it: "Most people don't know anyone working at an AI company or on AI governance; they have no real agency to shape the trajectory of the tech ... When people feel disempowered, they grasp at whatever leverage they can get."
+And guess what? Planning applications for datacentre construction is the one point where citizens may have some leverage on the industry's runaway madness. Accordingly, governments thinking that they can ram this stuff down the public's throat may be heading for some nasty surprises. Cue, Keir Starmer's AI-pilled administration, which is adjusting the UK's national planning framework to make it friendlier to big metal sheds stuffed with Nvidia graphic processing units running hot. To demonstrate its obeisance to Silicon Valley, it's hellbent on allowing "hyperscale" datacentres even on green-belt land. Maybe it's time someone in Whitehall read Václav Havel's essay The Power of the Powerless.
+What I'm reading
+John Naughton's recommendations Holy hand grenade Pete Hegseth's Gospel of Carnage is Frank Bruni's New York Times column on the religious fanatic now running the US war machine.
+Well putt A lovely piece of sportswriting by Elizabeth Nelson is Rory McIlroy Does It the Hard Way (Again).
+White House down The Causes and Consequences of Trump's Defeat is an insightful commentary by Sam and Lawrence Freedman on their Substack.
+Classification
+
+
+Language: ENGLISH
+
+Publication-Type: Newspaper
+
+Journal Code: OBS
+
+Subject:  SHOOTINGS (90%);  DATA CENTERS (90%);  GOVERNMENT BODIES & OFFICES (89%);  BOMBS & EXPLOSIVE DEVICES (78%);  LEGISLATIVE BODIES (77%);  MANUFACTURING (75%);  ZONING (75%);  NEGATIVE PRODUCT NEWS (74%);  WEALTHY PEOPLE (73%);  GRENADES (73%);  CITY LIFE (72%);  TECHNOLOGY (72%);  POPULISM (72%);  POLITICAL & SOCIAL IDEOLOGIES (72%);  CITIES (72%);  INFORMATION TECHNOLOGY INDUSTRY (72%);  CASE STUDIES (71%);  TALKS & MEETINGS (70%);  WHITE COLLAR WORKERS (62%); ZONING (75%); CITY LIFE (72%); TECHNOLOGY (72%); GRENADES (73%); SHOOTINGS (90%); WHITE COLLAR WORKERS (62%); NEGATIVE PRODUCT NEWS (74%); TALKS & MEETINGS (70%); WEALTHY PEOPLE (73%); POLITICAL & SOCIAL IDEOLOGIES (72%); GOVERNMENT BODIES & OFFICES (89%); CASE STUDIES (71%); CITIES (72%); BOMBS & EXPLOSIVE DEVICES (78%); POPULISM (72%); LEGISLATIVE BODIES (77%)
+
+Company:  GOOGLE LLC (54%)
+
+Industry: NAICS519290 WEB SEARCH PORTALS AND ALL OTHER INFORMATION SERVICES (54%); ZONING (75%); DATA CENTERS (90%); MANUFACTURING (75%); INFORMATION TECHNOLOGY INDUSTRY (72%)
+
+Person:  SAM ALTMAN (88%);  DEMIS HASSABIS (79%);  DARIO AMODEI (79%);  BERNIE SANDERS (75%);  ELON MUSK (58%);  BILL GATES (50%); BILL GATES (50%); DARIO AMODEI (79%); DEMIS HASSABIS (79%); ELON MUSK (58%); SAM ALTMAN (88%); BERNIE SANDERS (75%)
+
+Geographic:  INDIANAPOLIS, IN, USA (90%); INDIANAPOLIS, IN, USA (90%);  NEW HAMPSHIRE, USA (92%);  VERMONT, USA (92%);  CALIFORNIA, USA (91%);  INDIANA, USA (90%);  SOUTH CAROLINA, USA (79%);  MICHIGAN, USA (79%); NEW HAMPSHIRE, USA (79%); CALIFORNIA, USA (99%); VERMONT, USA (92%); MICHIGAN, USA (79%); SOUTH CAROLINA, USA (79%);  UNITED STATES (92%); National Edition
+
+Load-Date: April 18, 2026
+
+
+End of Document

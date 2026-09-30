@@ -1,0 +1,86 @@
+
+
+
+News Bites - Private Companies
+July 2, 2026 Thursday
+
+
+Copyright 2026 Jupiter International (Australia) Pty Ltd. All Rights Reserved
+
+
+Section: STOCK
+Length: 1597 words
+Body
+
+
+DASHBOARD: M13 
+*| PermID | 5060022710 | 
+*| Website | / | 
+*| Industry | Venture Capital | 
+ACTIVITIES:
+M13 is an early-stage venture capital firm dedicated to partnering with visionary founders to build and scale disruptive software companies through seed and Series A investments. Established by brothers Carter and Courtney Reum, the firm operates as a full-stack collaborator, leveraging a team of full-time operators to provide strategic guidance, operational support, and resources that enable efficient growth and the creation of category-defining enterprises. With a portfolio spanning innovative software solutions, M13 emphasizes sectors poised for transformative impact. Among its fastest-growing segments are AI-driven technologies, including AI matchmaking applications that revolutionize modern dating, AI-powered platforms for global HR compliance and payroll optimization, and scalable AI agents enhancing enterprise customer experience. This targeted focus on artificial intelligence underscores M13''s commitment to fostering high-potential innovations that address evolving market demands and drive sustainable value creation.
++   M13 [2 News That Matters]
++   ADVANCED PHAGE PLATFORMS FROM CREATIVE BIOLABS EXPAND CAPABILITIES IN BIOTHERAPEUTICS
+SHIRLEY, NY, April 30, 2026 /24-7PressRelease/-- Creative Biolabs has expanded its phage toolkit with upgraded lambda and M13 platforms designed to speed gene discovery and biomolecule engineering. 
+The M13 phage display system now enables ultra-diverse libraries reaching 10^10–10^11 variants, featuring both pIII monovalent and pVIII multivalent displays and the Trimer Codon Technology to reduce stop codons and balance amino acid distribution. 
+A company spokesperson noted that phage technologies are central to modern biotech, and that these upgraded platforms are designed for antibody discovery, epitope mapping, protein engineering, and diagnostics, offering researchers more reliable and customizable tools.
++   M13 PARTNERS WITH OPENFX IN SERIES A TO ACCELERATE FX TRADING PLATFORM EXPANSION
+On 15th April 2026, M13 announced its intention to co-lead OpenFX's Series A, framing the investment as a strategic alignment to fuel OpenFX's growth trajectory.
+The rationale centers on reducing trading frictions in the FX market by leveraging OpenFX's technology to deliver faster, more transparent execution for both retail and institutional users.
+M13 brings a track record of scaling technology companies and will provide strategic guidance to help OpenFX strengthen its infrastructure, expand into new markets, and enhance its product roadmap.
+As the digital currency ecosystem continues to mature, the partnership aims to deliver an expanded feature set and improved user experience, supporting OpenFX's ambition to capture a larger share of the FX trading landscape.
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++   GENERAL CATALYST [3 News That Matters]
++   OMLI RAISES $1.5 MILLION SEED TO BUILD AI FOR KIDS' SPEECH AND LANGUAGE
+Gurugram startup Omli has announced a $1.5 million seed round led by India Quotient with participation from General Catalyst, disclosed on June 17, 2026.
+Omli focuses on building AI infrastructure for children's speech and language development, addressing a gap where most commercial speech models are trained on adult voices.
+Its OmliKids app lets kids aged three to ten talk with an AI companion named Doro, aiming to be a conversational platform that helps improve speaking skills and logical thinking; the app has attracted more than 500,000 downloads on Google Play in a few months.
+To tackle the limitations of existing models, Omli developed VedAnsh-v1, a child-specific speech-to-text and voice activity detection system that showed improvements in word error rates when tested with children's speech. With about 15 employees, Omli plans to roll out the next generation of the model and explore real-time conversational intelligence and early articulation screening tools.
++   AI-DRIVEN ACCESSIBILITY STARTUP RYLO RAISES $85M GROWTH ROUND BACKED BY GENERAL CATALYST AND PARTNERS
+Rylo has secured $85 million in growth funding in a round led by General Catalyst's Customer Value Fund, with participation from Canaan, Vertex Ventures, and Contour. This investment lifts total funding to beyond $100 million and underscores investor confidence in AI-driven accessibility technology.
+The company, headquartered in Tel Aviv and New York, builds an AI-powered platform that improves accessibility for Deaf and hard-of-hearing users. Its tools include real-time captioning for phone calls, instant speech-to-text, text-to-speech, and in-person transcription, designed to support everyday communication across home, work, and public settings.
+Rylo has grown its ecosystem through innovation and strategic moves, most notably the 2025 acquisition of Sign.mt and the launch of Rylo Sign, which enables real-time translation between spoken and sign languages. Additional AI features such as speaker recognition, sentiment analysis, and fraud detection enhance performance across channels.
+The investment signals a positive outlook for the accessibility technology sector as demand increases with broader digital communication and evolving regulations. The capital will fund hiring in engineering, product, and commercial teams, plus AI research and infrastructure, with a long-term plan for global expansion and broader adoption by individuals and organizations.
++   AI-DRIVEN FIRM STANDARD BOTS BECOMES UNICORN ON $200M ROUND, VALUATION HITS $1B
+Standard Bots has reached unicorn status after closing a $200 million Series C round led by General Catalyst and RoboStrategy, valuing the New York-based robotics company at $1 billion. The funding was announced on 10th June 2026.
+The company was founded in 2011 by Evan Beard, and David Golden joined as co-founder in 2020. Golden, known for his work at Bowery Farming and LeapPay, has helped scale the business and refine its automation approach, including the use of AI-native arms that learn by demonstration.
+The firm deploys its technology across machining, welding and assembly at roughly 30% lower costs than legacy providers and counts Amazon, Lockheed Martin, NASA and the U.S. Army among its customers, alongside many small and mid-sized manufacturers. It designs actuators in-house and plans to manufacture nearly all components domestically by 2027 as part of a broader push to boost U.S. manufacturing.
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++   LIGHTSPEED VENTURE PARTNERS [3 News That Matters]
++   LIGHTSPEED COMPLETES CLASS A EXIT; CLASS B STAKE PERSISTS AS ARR RISES
+The liquidation of Lightspeed Opportunity Fund, L.P.'s Class A position concludes the fund's direct Netskope exposure, while a broader Lightspeed footprint remains through Netskope Class B stock. As of 12th June 2026, Lightspeed entities collectively held 62,843,207 Class B shares, convertible to Class A on a one-for-one basis at the holder's option or automatically on 19th September 2035. Netskope also reported ARR of $845 million, up 29% year over year, and total revenue of about $202 million, up 28%, signaling continued growth despite market chatter. Analysts subsequently adjusted price targets, with TD Cowen trimming to $19 while keeping a Buy rating; BMO Capital and RBC Capital lowered targets to $13; Piper Sandler set $18; and Mizuho reduced to $13, reflecting varied views on growth trajectory and competitive positioning.
++   LIGHTSPEED STRENGTHENS MARKETING LEADERSHIP WITH ROHIT KAUL APPOINTMENT
+Lightspeed Venture Partners has appointed Rohit Kaul as head of marketing, a move that comes as the firm eyes a fifth India and Southeast Asia-focused fund with a target around $500 million.
+Kaul previously served as Vice President of Marketing at Blume Ventures, a role he has held since February 2023, and he has also held positions at Sacra and HCL.
+The hire coincides with Lightspeed's continued emphasis on the Indian and Southeast Asian markets, which have faced a slowdown in startup funding and increased portfolio pressure.
+Lightspeed has supported a number of high-profile startups in the region and has recently adjusted its communications and marketing leadership, including the departure of Carina Chopra; Kaul's background is expected to strengthen brand outreach and fundraising efforts.
++   VENTURE FIRM LIGHTSPEED BACKSTOPS NICHE AGENT-EVALUATION STARTUP AMID FUNDING RALLY
+Lightspeed Venture Partners has backed a promising agent-evaluation startup through back-to-back funding rounds, with the investment revealed on 13th May 2026. The move reflects Lightspeed's focus on niche markets where technology can improve how agents are evaluated.
+The startup has built a platform to simplify and improve the assessment process for agents, drawing interest from investors who see potential in efficiency gains across industries.
+The new funding will broaden product offerings and strengthen technology capabilities, aligning with Lightspeed's belief in rising demand for reliable evaluation tools. The startup has already attracted inquiries from potential customers, signaling a healthy pipeline of future clients.
+The company also plans to invest in marketing to raise its profile and gain share in a competitive market. Lightspeed's continued support is expected to help the startup navigate challenges and unlock additional growth opportunities as the space evolves.
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Created by 
+Classification
+
+
+Language: English
+
+Document-Type: Analyst Comment/Recommendation; Share Price Movement/Disruptions
+
+Publication-Type: Newswire
+
+Subject:  VENTURE CAPITAL (91%);  ARTIFICIAL INTELLIGENCE (90%);  FINANCING ROUNDS (90%);  INDUSTRY TRENDS (90%);  BUSINESS REPORTS & FORECASTS (90%);  INNOVATION (90%);  PRESS RELEASES (90%);  SOFTWARE SERVICES & APPLICATIONS (90%);  FINANCIAL MARKET UPDATES (90%);  TRENDS (90%);  ALLIANCES & PARTNERSHIPS (89%);  TECHNOLOGY (89%);  FOREIGN EXCHANGE MARKETS (88%);  AMINO ACIDS  PEPTIDES & PROTEINS (86%);  OUTPUT & DEMAND (78%);  INFORMATION TECHNOLOGY INDUSTRY (78%);  RETAIL & WHOLESALE TRADE (78%);  PHARMACEUTICALS & BIOTECHNOLOGY (78%);  TECHNOLOGICAL INNOVATION (77%);  COMPUTER SOFTWARE (77%);  BUSINESS EXPANSION (75%);  RELATIONSHIP TRENDS (74%);  DIGITAL CURRENCY (73%);  USER EXPERIENCE (73%);  CUSTOMER EXPERIENCE (73%);  SOFTWARE MAKERS (72%);  PRODUCT ENHANCEMENTS (70%);  GENES & CHROMOSOMES (70%);  COURTSHIP & DATING (69%);  IMMUNOLOGIC FACTORS (68%);  CUSTOMER RELATIONS (68%);  BIOPHARMACEUTICALS (66%);  MONITORS & DISPLAYS (65%); TECHNOLOGY (90%); PRODUCT ENHANCEMENTS (70%); COURTSHIP & DATING (69%); PRESS RELEASES (90%); BUSINESS REPORTS & FORECASTS (90%); FINANCING ROUNDS (90%); FINANCIAL MARKET UPDATES (90%); AMINO ACIDS, PEPTIDES & PROTEINS (87%); VENTURE CAPITAL (90%); USER EXPERIENCE (74%); GENES & CHROMOSOMES (71%); INDUSTRY TRENDS (90%); BUSINESS EXPANSION (76%); CUSTOMER RELATIONS (69%); DIGITAL CURRENCY (50%); OUTPUT & DEMAND (76%); INNOVATION (90%); TECHNOLOGICAL INNOVATION (77%); CUSTOMER EXPERIENCE (74%); FOREIGN EXCHANGE MARKETS (88%); ARTIFICIAL INTELLIGENCE (90%); ALLIANCES & PARTNERSHIPS (89%); RELATIONSHIP TRENDS (74%); TRENDS (93%)
+
+Company:  STACK INFRASTRUCTURE INC (72%); M13
+
+Ticker: M13
+
+Industry: NAICS531210 OFFICES OF REAL ESTATE AGENTS & BROKERS (72%); NAICS518210 COMPUTING INFRASTRUCTURE PROVIDERS, DATA PROCESSING, WEB HOSTING, AND RELATED SERVICES (72%); SIC7374 COMPUTER PROCESSING & DATA PREPARATION & PROCESSING SERVICES (72%); SIC6531 REAL ESTATE AGENTS & MANAGERS (72%); COMPUTER SOFTWARE (90%); SOFTWARE MAKERS (77%); FINANCIAL MARKET UPDATES (90%); BIOPHARMACEUTICALS (67%); VENTURE CAPITAL (90%); SOFTWARE SERVICES & APPLICATIONS (93%); INFORMATION TECHNOLOGY INDUSTRY (78%); PHARMACEUTICALS & BIOTECHNOLOGY (78%); DIGITAL CURRENCY (50%); FOREIGN EXCHANGE MARKETS (88%); ARTIFICIAL INTELLIGENCE (90%); MONITORS & DISPLAYS (65%); IMMUNOLOGIC FACTORS (69%); RETAIL & WHOLESALE TRADE (77%); 523910 (%)
+
+Geographic: United States; United States
+
+Load-Date: July 3, 2026
+
+
+End of Document

@@ -1,0 +1,57 @@
+
+
+
+The Observer - London (Online)
+April 17, 2026 Friday 4:00 AM GMT
+
+
+Copyright 2026 Tortoise Media All Rights Reserved
+
+
+Section: COLUMNISTS; Version:1
+Length: 903 words
+Byline: John Naughton
+Highlight: The backlash against Silicon Valley’s dispowering technology is manifesting as direct action and US state legislation
+Body
+
+
+On the morning of 10 April, a guy threw a molotov cocktail at the exterior gate of the Russian Hill mansion of OpenAI boss Sam Altman in San Francisco. Two days later, two people tried a spot of drive-by shooting at the house.
+Also this month, an Indianapolis city councillor was woken by   and found a handwritten note left on his doorstep saying: “No data centers”. It turns out that, days before the latter shooting happened, the councillor had attended a metropolitan development commission meeting to advocate for the rezoning of a property where the developer Metrobloks was seeking to build a datacentre.
+Meanwhile, over on the country’s east coast,  Maine is poised to become the first US state to pass a   after a measure was approved by both chambers of the state legislature. It’s just the first in a queue   – Georgia, Maryland, Michigan, New Hampshire, New York, Oklahoma, South Carolina, South Dakota, Vermont, Virginia and Wisconsin – that have proposed legislation to restrict or ban datacentre development.
+What we’re seeing are the first stirrings of anti-AI populism, a volatile movement driven by economic desperation and a visceral distrust of tech elites. In that context, the attacks on Altman’s home and on a councillor who advocated for a datacentre look like early signals of a seismic shift from critique to direct action.
+Even as they beef up their personal security, the tech bros are baffled and hurt by this development. But, really, they only have themselves to blame. From the outset in 2022, their messaging about the technology has been infantile.
+Vermont senator Bernie Sanders has recently made a bravura video skewering it. The AI revolution is being pushed by some of the wealthiest people who have ever lived, he points out, and they have spent their time frightening the life out of us.
+Some choice examples cited by Sanders: Elon Musk saying that “AI will replace all jobs” and that “working will be optional”; Anthropic’s chief executive, Dario Amodei, thinking that “[AI] could displace half of all entry-level white-collar jobs in the next one to five years”; Demis Hassabis, the chief executive of Google DeepMind, burbling about how the AI revolution will be “10 times bigger than the Industrial Revolution and 10 times faster”; Bill Gates telling us that, within the next decade, humans won’t be needed “for most things”, such as manufacturing products, delivering packages or growing food. And so on, ad infinitum.
+If you wanted a case study in how not to win friends and influence people, this tone-deaf messaging would be hard to beat. Especially when it’s being delivered to an audience that is increasingly disenchanted with a tech industry that seems relaxed about profiting from . 
+And, interestingly, it is young people who are increasingly most alienated by the industry. The   in November 2025 revealed that, by more than a 3-1 margin, young Americans believe AI will take away opportunities; 44% say it will reduce them, against only 14% who expect gains.
+And   shows that demographic’s views on the technology steadily darkening. Sentiment towards AI has become significantly more negative on three of the four emotions measured. “Excitement” has dropped 14 percentage points to just 22%, “hopefulness” has fallen 9 points to 18% and “anger” has increased 9 points to 31%.
+Note that last number. As Jasmine Sun, an anthropologist who is one of the sharpest observers of the tech industry,  : “Most people don’t know anyone working at an AI company or on AI governance; they have no real agency to shape the trajectory of the tech. Talk of aggregate consumer surplus is scarce solace to an illustrator or cab driver losing their job.  When people feel disempowered, they grasp at whatever leverage they can get.”
+And guess what? Planning applications for datacentre construction is the one point where citizens may have some leverage on the industry’s runaway madness. Accordingly, governments thinking that they can ram this stuff down the public’s throat may be heading for some nasty surprises.
+Cue, Keir Starmer’s AI-pilled administration, which is currently adjusting the UK’s national planning framework to make it friendlier to huge metal sheds stuffed with Nvidia graphic processing units running hot.
+To demonstrate its obeisance to Silicon Valley’s imperatives, it’s hellbent on allowing   even on green-belt land. Maybe it’s time someone in Whitehall downloaded  .
+                     What I’m reading                   
+                     Holy hand grenade                        is Frank Bruni’s New York Times column on the religious fanatic now running the US war machine.
+                     Well putt A lovely piece of sportswriting by Elizabeth Nelson is . 
+                     White House down                        is an insightful commentary by Sam and Lawrence Freedman on their Substack.
+                     Photograph by Mario Tama/Getty Images                   
+Classification
+
+
+Language: ENGLISH
+
+Publication-Type: Web Publication
+
+Journal Code: WEBO
+
+Subject: ZONING (75%); GRENADES (73%); EXECUTIVES (69%); SHOOTINGS (77%); WHITE COLLAR WORKERS (65%); TALKS & MEETINGS (69%); WEALTHY PEOPLE (50%); POLITICAL & SOCIAL IDEOLOGIES (70%); GOVERNMENT BODIES & OFFICES (89%); CASE STUDIES (70%); BOMBS & EXPLOSIVE DEVICES (78%); US STATE GOVERNMENT (90%); LEGISLATION (91%); POPULISM (65%); APPROVALS (69%); LEGISLATIVE BODIES (89%)
+
+Industry: ZONING (75%); DATA CENTERS (70%); MANUFACTURING (75%)
+
+Person: BILL GATES (64%); DARIO AMODEI (79%); DEMIS HASSABIS (79%); ELON MUSK (78%); SAM ALTMAN (99%); BERNIE SANDERS (74%)
+
+Geographic: SILICON VALLEY, CA, USA (92%); INDIANAPOLIS, IN, USA (91%); SAN FRANCISCO BAY AREA (94%); SAN FRANCISCO, CA, USA (92%); NEW HAMPSHIRE, USA (79%); CALIFORNIA, USA (92%); MICHIGAN, USA (79%); SOUTH CAROLINA, USA (79%)
+
+Load-Date: April 17, 2026
+
+
+End of Document

@@ -1,0 +1,49 @@
+
+
+
+States News Service
+September 8, 2026 Tuesday
+
+
+Copyright 2026 States News Service
+Length: 1113 words
+Byline: States News Service
+Dateline: WASHINGTON 
+Body
+
+
+The following information was released by the Competitive Enterprise Institute:
+California may become the first state to take major statutory action to regulate wearable recording devices like smart glasses. Senate Bill 1130 has passed both chambers of the California legislature and now sits with the governor. The language of the bill attempts to walk a fine line between Californians' First Amendment rights and their right to privacy, but SB 1130 is just the beginning of numerous policy discussions surrounding wearable AI.
+The push for the bill is no doubt prompted by the growth of AI wearables, especially smart glasses. Meta has already sold several million smart glasses through its partnerships with fashionable eyewear brands like Ray-Ban and Oakley. Google will soon join the party with the release of its own smart glasses this fall, partnering with Warby Parker and Gentle Monster. While much of the current public policy debate about AI focuses on safety and cybersecurity concerns with frontier models, issues involving the integration of AI into physical hardware, like wearables, robotics, and appliances, will likely become more commonplace.
+AI-powered smart glasses have transformative potential as an assistive technology to improve and enhance people's everyday lives. The fact that smart glasses on the market will have dual-use, overlapping functions, likely integrated with Meta, Google, and others' existing suites of products, doesn't make that any less true.
+There are already beneficial use cases for the blind and vision impaired, where smart glasses can read a menu, help identify a street sign, or locate a misplaced item. For people who are hard of hearing or deaf, the deployment of display lenses with speech-to-text functions will prove invaluable. Even more subtle conditions, such as neurologic auditory processing disorders, could benefit from smart glasses features like Meta's "conversation focus," which amplifies whichever voice the wearer focuses on.
+There are also promising use cases for elderly adults. A recent study published in the JMIR Aging journal exploring "the usability and acceptability of smart glasses among older adults with cognitive impairment" found:
+Overall, participants conveyed a generally positive perception of smart glasses and their potential to support memory in daily life. Both survey and interview results suggest that participants prioritized the following smart glasses functions: audio reminders, phone calls, GPS, and distress signals, with audio reminders emerging as the highest-ranked feature.
+Perhaps even more consequential, the Federal Trade Commission (FTC) often highlights older Americans' heightened susceptibility to losing large sums of money through scam calls. "Lots of scams are now carried out online, but these scams still depend on a phone call. Even when they don't start with a call, reports show the goal is to get you on the phone," according to the FTC. Google has already begun offering AI-powered scam detection on its devices, features we will likely see more widely on smart glasses in the future.
+But widespread adoption of these new technologies could be hindered by preemptive and overzealous regulation. As the Abundance Institute's Taylor Barkley and Neil Chilson explained in their report on wearable AI published earlier this year,
+Early policy approaches that target wearables treat them either as generalized "surveillance devices" because they include sensors or cameras, or as "consumer toys" that obscure their significant economic, healthcare, and accessibility value. Neither approach will succeed; both risk sidelining tools that could reduce costs across Medicare and Medicaid, expand workforce participation, improve productivity, and dramatically improve independence for people with disabilities.
+While SB 1130 attempts to exclude the use of certain assistive technologies, that exception still creates serious legal ambiguity for dual-use devices like consumer smart glasses.
+SB 1130 would make it a misdemeanor for a person to use smart glasses to record a person within a place of business "where the person has a reasonable expectation of privacy" unless that person gives consent. If a consumer uses a smartphone in the exact manner prohibited by SB 1130, they don't violate the law, illustrating that the bill regulates the technology rather than the harm itself. The reasonable expectation of privacy standard also creates ambiguity and "could lead to inconsistent enforcement of lawful conduct," according to the Computer and Communications Industry Association.
+SB 1130 would also require the manufacturers and retailers of "wearable recording device[s]" to include a "light, sound, or other indicator that is sufficiently prominent so that a reasonable person in the vicinity would be alerted to the capturing activity." Manufacturers have largely done this voluntarily already. But vague language like "sufficiently prominent" and "in the vicinity" will likely cause confusion for companies attempting to comply. And third-party distributors may be stuck with liability too.
+Further, the bill would prohibit both disabling the light, sound, or other indicators and dealing in technologies designed to disable any indicator. For consumers, disabling the indicator could come with both civil and criminal charges. The visibility of the LED light indicating recording is an important feature for giving notice to bystanders. There is some public sentiment that the covert recording capabilities of smart glasses are "creepy," which gives tech companies all the reputational incentives they need to maintain the indicator function.
+However, the criminal language prohibiting users from disabling these indicators is blunt. SB 1130 dictates that "[a] person shall not disable any light, sound, or other indicator on a wearable recording device that indicates that the device is capturing sound or video." Violation of this provision comes with fines up to $1,500 and one year in jail, even if the wearable was never used improperly or illegally. Meta has already utilized its platform policies and firmware controls to combat tampering, but criminal liability on users absent an underlying illegal act is overly punitive.
+There are serious risks to innovation when government regulates emerging technologies rather than possible harm. Many of those harms targeted by SB 1130 are already illegal under state wiretapping, eavesdropping, and voyeurism laws. Moving forward, we'll need to have serious conversations on where to draw the line for reasonable limitations government should place on technology while also maintaining privacy, property, and speech rights.
+Classification
+
+
+Language: ENGLISH
+
+Publication-Type: Newswire
+
+Subject:  WEARABLE TECHNOLOGY (91%);  ARTIFICIAL INTELLIGENCE (90%);  LEGISLATIVE BODIES (90%);  LEGISLATION (90%);  SCAMMING (89%);  GOVERNMENT BODIES & OFFICES (89%);  COMMERCE DEPARTMENTS (89%);  ADULTS (87%);  SENIOR CITIZENS (85%);  INFORMATION SECURITY & PRIVACY (78%);  ARTIFICIAL INTELLIGENCE REGULATION & POLICY (78%);  PROSTHETIC & ASSISTIVE DEVICES (78%);  PUBLIC POLICY (78%);  OPHTHALMIC GOODS (77%);  DEAFNESS (77%);  INTELLIGENCE & COGNITION (77%);  INTERVIEWS (77%);  ARTIFICIAL INTELLIGENCE FRAUD (75%);  NEGATIVE TECHNOLOGY NEWS (74%);  GOVERNMENT DEPARTMENTS & AUTHORITIES (73%);  CYBERSECURITY (73%);  VISION IMPAIRMENTS (72%);  LEARNING DISABILITIES (72%);  SAFETY (72%);  CYBERCRIME (72%);  PRIVACY RIGHTS (71%);  DISABLED PERSONS (71%);  VOICE RECOGNITION (71%);  ROBOTICS (70%);  VULNERABLE ADULTS (69%);  NEUROSCIENCE (68%);  RESEARCH REPORTS (68%); RESEARCH REPORTS (68%); LEARNING DISABILITIES (72%); GOVERNMENT DEPARTMENTS & AUTHORITIES (73%); COMMERCE DEPARTMENTS (89%); ADULTS (87%); SAFETY (72%); ARTIFICIAL INTELLIGENCE FRAUD (75%); WEARABLE TECHNOLOGY (92%); VOICE RECOGNITION (71%); NEGATIVE TECHNOLOGY NEWS (74%); INTELLIGENCE & COGNITION (77%); PROSTHETIC & ASSISTIVE DEVICES (78%); ARTIFICIAL INTELLIGENCE REGULATION & POLICY (78%); PUBLIC POLICY (78%); DEAFNESS (77%); VULNERABLE ADULTS (69%); INTERVIEWS (77%); ROBOTICS (70%); CYBERCRIME (72%); ARTIFICIAL INTELLIGENCE (91%); GOVERNMENT BODIES & OFFICES (89%); SCAMMING (89%); PRIVACY RIGHTS (71%); LEGISLATION (90%); VISION IMPAIRMENTS (72%); NEUROSCIENCE (68%); DISABLED PERSONS (71%); LEGISLATIVE BODIES (90%); SENIOR CITIZENS (85%)
+
+Company:  GOOGLE LLC (83%)
+
+Industry: NAICS519290 WEB SEARCH PORTALS AND ALL OTHER INFORMATION SERVICES (83%); OPHTHALMIC GOODS (77%); ARTIFICIAL INTELLIGENCE FRAUD (75%); WEARABLE TECHNOLOGY (92%); VOICE RECOGNITION (71%); INFORMATION SECURITY & PRIVACY (78%); PROSTHETIC & ASSISTIVE DEVICES (78%); CYBERSECURITY (73%); ARTIFICIAL INTELLIGENCE REGULATION & POLICY (78%); ROBOTICS (70%); CYBERCRIME (72%); ARTIFICIAL INTELLIGENCE (91%)
+
+Geographic:  CALIFORNIA, USA (94%); CALIFORNIA, USA (94%);  UNITED STATES (94%); UNITED STATES (94%)
+
+Load-Date: September 8, 2026
+
+
+End of Document

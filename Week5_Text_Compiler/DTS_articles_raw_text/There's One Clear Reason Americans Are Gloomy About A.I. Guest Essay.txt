@@ -1,0 +1,50 @@
+
+
+
+The New York Times - International Edition
+June 27, 2026 Saturday
+
+
+Copyright 2026 International Herald Tribune All Rights Reserved
+Section: OPINION
+Length: 926 words
+Byline: Paul Kedrosky
+Body
+
+
+ABSTRACT
+The key is understanding how our labor market and our social net differ from the rest of the world's.
+FULL TEXT
+Hating artificial intelligence may be the only thing about which Americans agree. But they are global outliers in their pessimism. A survey of 24,000 adults across 30 countries found that citizens of nearly all of those countries, rich or poor, see A.I. more favorably than Americans do. This is startling for citizens of a wealthy, advanced economy who are usually enthusiastic tech adopters of anything with a wall charger.       
+The technology industry says American nervousness is wrongheaded. Fearmongering media! Foreign disinformation! This makes pessimism a communication problem. Fix the messaging, get the optimistic voices out there, and the support for A.I. will grow. Hang around any Reddit A.I. group or listen to recent college graduation speeches by tone-deaf tech execs, and you will feel as if there were already an entire gig economy of A.I. boosterism.       
+Why isn't it working? Because the theory is incomplete, at best. If American A.I. pessimism were merely cultural or informational, it would correlate with media consumption, education levels or political polarization. Instead, it cuts across all those categories. It correlates instead with labor market institutions.       
+Start with the global picture. Plot A.I. sentiment against income and labor market, and there is a pattern. Poorer countries are A.I. optimistic: Indonesia at 76 percent, Thailand at 77 percent and Mexico at 63 percent. Rich countries like the United States, the Netherlands and Belgium are not. What A.I. means depends, in large part, on where you sit economically.       
+In countries with largely informal economies - where large numbers of people work without contracts, benefits or legal protections - A.I. looks like a ladder to better economic outcomes previously available only to those with capital, education and formal employment. A small manufacturer in Guadalajara or a street vendor in Jakarta doesn't have much to lose from A.I. disruption and potentially a great deal to gain.       
+In rich countries with more formal labor markets, however, A.I. looks more like an ambush. It threatens what people already have: stable employment, predictable income and accumulated professional standing. While A.I. might help in the abstract, people are more worried about a socioeconomic trapdoor opening beneath their feet and eroding that stability.       
+But not all wealthy nations feel the same. Norway is more optimistic than France, and Germany more than Canada. Those countries have broadly similar income levels, so income alone doesn't explain the variation.       
+So what does? In Norway, losing your job means receiving around 67 percent of your previous wages in unemployment benefits while you search for the next position. In France, it's around 66 percent, and 60 percent in Germany. The insurance system treats unemployment as a temporary inconvenience and bridges you smoothly across.       
+The United States pays significantly less in unemployment benefits than many European countries do. And that is for only a limited period, through a patchwork of state systems with wildly varying generosity. Many workers don't qualify. U.S. workers are much more likely to exhaust unemployment benefits before finding work, especially in recessions. Those with low savings may quickly tip into precarity.       
+Different generations feel pinched in different ways. For younger Americans - who are most likely to be working in gigs, early-career jobs or positions most exposed to A.I. substitution - the absence of an income floor is the threat. (Note that there is recent research suggesting remote work also has held young people back, but A.I. is still a factor.)       
+For workers in their 40s and 50s with families, mortgages and ongoing health care needs, the American safety net fails even more comprehensively. Blame employer-linked health care. Every other rich country in the survey - including Germany, France, Japan, Australia, Canada and Britain - provides health care independently of one's job. Losing your job in those countries means losing income. Losing your job in America means losing income and health coverage simultaneously, often for an entire family.       
+Job loss in the United States is more threatening than anywhere else in the wealthy world. It turns what should be a setback into a potential cascade - income, insurance, mortgage and child care, all at risk at once. Meanwhile, A.I. chief executives won't stop telling Americans A.I. is coming for them. The technology is a missile aimed at the most fragile part of the American socioeconomic bargain.       
+No wonder Americans are pessimistic about A.I. While better messaging will not fix this, decoupling health care from employment might. Building an unemployment insurance system that replaces income at a meaningful level might. Americans' pessimism about A.I. is largely rational, about a technology tailor-made to crack their crumbling and antiquated social compact.       
+Paul Kedrosky is a fellow at M.I.T.'s Institute for the Digital Economy, a venture capitalist and the author of a newsletter at paulkedrosky.com.       
+The Times is committed to publishing a diversity of letters to the editor. We'd like to hear what you think about this or any of our articles. Here are some tips. And here's our email: .
+Follow the New York Times Opinion section on Facebook, Instagram, TikTok, Bluesky, WhatsApp and Threads.
+Classification
+
+
+Language: ENGLISH
+
+Publication-Type: Web Publication
+
+Subject:  LABOR MARKET (91%);  REPORTS  REVIEWS & SECTIONS (91%);  ARTIFICIAL INTELLIGENCE (90%);  EDITORIALS & OPINIONS (90%);  NEGATIVE EMPLOYMENT NEWS (89%);  ECONOMIC NEWS (89%);  LABOR SECTOR PERFORMANCE (87%);  UNEMPLOYMENT INSURANCE (86%);  INFORMATION TECHNOLOGY INDUSTRY (78%);  IMMIGRATION  CITIZENSHIP & DISPLACEMENT (77%);  GIG ECONOMY (76%);  MANUFACTURING (76%);  DISINFORMATION & MISINFORMATION (75%);  TECHNOLOGY (73%);  LAYOFFS & DISMISSALS (72%);  WAGES & SALARIES (71%);  UNOFFICIAL ECONOMY (71%);  EDUCATIONAL INSTITUTION GRADUATION (69%);  COMPENSATION & BENEFITS (69%);  EMPLOYMENT CONTRACTS (69%);  TEMPORARY STAND RETAILING (66%); COMPENSATION & BENEFITS (69%); REPORTS, REVIEWS & SECTIONS (99%); UNOFFICIAL ECONOMY (71%); UNEMPLOYMENT INSURANCE (86%); EDUCATIONAL INSTITUTION GRADUATION (69%); EMPLOYMENT CONTRACTS (69%); TECHNOLOGY (73%); LABOR SECTOR PERFORMANCE (87%); NEGATIVE EMPLOYMENT NEWS (89%); IMMIGRATION, CITIZENSHIP & DISPLACEMENT (77%); DISINFORMATION & MISINFORMATION (75%); ECONOMIC NEWS (89%); LAYOFFS & DISMISSALS (72%); LABOR MARKET (90%); EDITORIALS & OPINIONS (90%); ARTIFICIAL INTELLIGENCE (90%); GIG ECONOMY (76%); WAGES & SALARIES (71%)
+
+Industry: UNEMPLOYMENT INSURANCE (86%); MANUFACTURING (76%); ARTIFICIAL INTELLIGENCE (90%); TEMPORARY STAND RETAILING (66%); INFORMATION TECHNOLOGY INDUSTRY (78%)
+
+Geographic:  JAKARTA, INDONESIA (79%); JAKARTA, INDONESIA (79%);  UNITED STATES (96%);  FRANCE (92%);  GERMANY (92%);  INDONESIA (92%);  NORWAY (92%);  NETHERLANDS (79%);  CANADA (79%);  NORTH AMERICA (79%);  EUROPE (79%);  MEXICO (79%);  BELGIUM (74%);  THAILAND (54%);  CENTRAL EUROPE (51%); EUROPE (79%); NETHERLANDS (79%); UNITED STATES (99%); MEXICO (79%); INDONESIA (92%); NORWAY (92%); GERMANY (92%); CANADA (79%); FRANCE (92%); BELGIUM (74%); THAILAND (54%)
+
+Load-Date: June 26, 2026
+
+
+End of Document
