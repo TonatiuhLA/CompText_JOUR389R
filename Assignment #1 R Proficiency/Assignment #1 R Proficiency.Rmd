@@ -23,7 +23,7 @@ nrow(black_index)
 ncol(black_index)
 ```
 ```{r}
-print(paste0("This dataset has ", nrow(black_index), " rows and ", ncol(black_index), " columns. Each row in this dataset appears to describe a single article that appeared in newspaper between ", min(black_index$year), " and ", max(black_index$year), ". The articles appear to have been sourced from ProQuest's collection of historial newspapers and LOC. The articles all seem to have a connection to lynching in the United States."))
+print(paste0("This dataset has ", nrow(black_index), " rows and ", ncol(black_index), " columns. Each row in this dataset appears to describe a single article that appeared in newspaper between ", min(black_index$year), " and ", max(black_index$year), ". The articles appear to have been sourced from ProQuest's collection of historial newspapers and LOC (Library of Congress presumably). The articles all seem to have a connection to lynching in the United States."))
 ```
 # Counting the top 20 entries in the newspaper_city column with N/A removed
 
@@ -62,3 +62,8 @@ black_index %>%
 ```
 
 
+############
+### MEMO ###
+############
+
+Reiterating from the print() statement, there are 1803 rows and 30 columns in the dataset. Each row represents an article related to lynching in the United States, which may be from 1850 to 2002 depending on the article. Each article is sourced either from ProQuest’s historical newspaper archives or the Library of Congress (LOC). Now focusing on data: when finding the top 20 cities where the articles are sourced from, it came as a shock that only 12 cities were actually documented, so the cutoff of 20 was never reached. This reflects a clear limitation of this data, as we know the topic of lynching is a much more widespread issue than just 12 cities worth. The ggplot bar chart and counting all articles by year shows that 1920 had the highest number of sources, with 1919 being the runner-up for that count. Upon taking a look through the dataset itself, I noticed that all sources from LOC are marked Y in the black column, indicating that the source is a black-written newspaper, and that the article_title column is always marked as NA. I wonder why? I have a few assumptions, but I don’t want to just decide for myself. I am aware that LOC’s database is not the most fleshed out, which is probably the largest contributor to this discrepancy. It could also be that the articles pulled from LOC themselves don’t title their individual sections. Chances are that there are many contributors to this, instead of just one.
