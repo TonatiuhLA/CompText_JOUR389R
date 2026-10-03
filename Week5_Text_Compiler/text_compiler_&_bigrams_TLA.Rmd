@@ -12,6 +12,7 @@ library(janitor)
 library(striprtf)
 library(tidytext)
 library(rio)
+library(dplyr)
 
 ```
 
@@ -269,8 +270,14 @@ bigram_filtered
 write_csv(bigram_filtered, "bigram_filtered.csv")
 ```
 
+```{r}
+deaf_bigram <- bigram_filtered |> 
+  filter(grepl("deaf", word1, ignore.case = TRUE) | grepl("deaf", word2, ignore.case = TRUE))
+```
+
+
 ############
 ### MEMO ###
 ############
 
-...
+My bigram findings indicate a large focus in the articles on artificial intelligence. The term “artificial intelligence” has the highest count in the bigram table, with 320 entries. The runner-up for that position is “venture capital”, which is not related to the topic I am interested in. Upon scrolling through the bigram table more, it was found that the contents of these bigrams primarily focus on finance topics rather than my intended goal of topics surrounding Deaf sentiments on technology (DTS). To face this problem, I wrote a piece of code to filter through word1 and word2 columns in the bigram to find any bigrams with the keyword deaf in them, so I could get any wildcard variation of deaf while trying to obtain some findings. Out of 12706 rows, it was found that only 46 rows had the keyword deaf in them. I didn’t expect many articles to focus on that topic to begin with, both bigrams show that the dataset reflects that expectation. I am aware that my original search was faulty for the goal I was searching for, if I use a better search query I hope I can find sources that focus on DTS rather than sources that briefly mention DTS, such as these financial sources. In the spirit of using the fullest potential of this dataset and considering that the current bigram focuses mostly on financial topics, in the future, when filtering this dataset for purposes similar to the bigram table, I would like to first filter the dataset for sentences that contain the word deaf in them so the queries can focus on deafness, which is the primary component of DTS. 

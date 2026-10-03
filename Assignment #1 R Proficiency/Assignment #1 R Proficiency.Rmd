@@ -1,0 +1,64 @@
+---
+title: "Assignment #1: R Proficency"
+author: "Tonatiuh Leung-Arellano"
+date: "2026-10-03"
+output: html_document
+---
+
+```{r}
+library(tidyverse)
+library(janitor)
+```
+
+```{r}
+black_index <- read_csv("blackindex_master.csv")
+
+clean_names(black_index)
+```
+
+
+# Number of rows and columns
+```{r}
+nrow(black_index)
+ncol(black_index)
+```
+```{r}
+print(paste0("This dataset has ", nrow(black_index), " rows and ", ncol(black_index), " columns. Each row in this dataset appears to describe a single article that appeared in newspaper between ", min(black_index$year), " and ", max(black_index$year), ". The articles appear to have been sourced from ProQuest's collection of historial newspapers and LOC. The articles all seem to have a connection to lynching in the United States."))
+```
+# Counting the top 20 entries in the newspaper_city column with N/A removed
+
+# Note: Only 12 entries come back, meaning newspaper_city only has 12 unique entries aside from N/A
+```{r}
+black_index |> 
+  count(newspaper_city) |> 
+  filter(!is.na(newspaper_city)) |> 
+  slice_max(order_by = n, n = 20)
+```
+
+# Counting all articles by year
+```{r}
+black_index |> 
+  count(year) |> 
+  arrange(desc(n))
+```
+
+
+#Create a simple column ggplot chart that shows the total entries by year
+
+```{r}
+black_index %>%
+  count(year) %>%
+  arrange(desc(n)) %>%
+  ggplot(aes(x = year, y = n,
+             fill = n)) +
+  geom_col(position = "dodge") +
+  theme(legend.position = "none") +
+  labs(
+    title = "Total Newspaper Entries by Year",
+    y = "Number of Entries",
+    x = "Year",
+    caption = "Graphic by Benji Leung-Arellano, 10-2-2026"
+  )
+```
+
+
